@@ -1,0 +1,36 @@
+# Render Blueprint — BLOOMÉ FLORAL Business PRO API
+# Deploy: Render dashboard → New + → Blueprint → select this repo.
+# After creation, set SECRET_KEY <48 chars> and DATABASE_URL (Supabase pooled URL)
+# in the service's Environment tab, then redeploy.
+services:
+  - type: web
+    name: bloeme-api
+    runtime: docker
+    rootDir: backend
+    plan: free
+    healthCheckPath: /health
+    envVars:
+      - key: ENVIRONMENT
+        value: production
+      - key: PUBLIC_SITE_URL
+        value: https://bloeme-floral.pages.dev
+      - key: ADMIN_SITE_URL
+        value: https://bloeme-floral.pages.dev/admin
+      - key: TRUSTED_ORIGINS
+        value: https://bloeme-floral.pages.dev
+      - key: COOKIE_SECURE
+        value: "true"
+      - key: COOKIE_SAMESITE
+        value: none
+      - key: PAYMENTS_MODE
+        value: demo
+      - key: ALLOW_DEMO_PAYMENTS_IN_PRODUCTION
+        value: "true"
+      - key: SMTP_ENABLED
+        value: "false"
+      - key: MEDIA_ROOT
+        value: /var/data/media
+      - key: SECRET_KEY
+        sync: false
+      - key: DATABASE_URL
+        sync: false
