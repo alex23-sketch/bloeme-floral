@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <defs>
+    <radialGradient id="g" cx="72%" cy="40%" r="60%">
+      <stop offset="0%" stop-color="#F0DCDD"/>
+      <stop offset="100%" stop-color="#FAF7F2"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#g)"/>
+  <g transform="translate(80 170)" fill="#581F32">
+    <text font-family="Georgia, serif" font-size="96" letter-spacing="10">BLOOMÉ</text>
+    <text y="58" font-family="Helvetica, Arial, sans-serif" font-size="18" letter-spacing="9" fill="#5B5356">FLORAL ATELIER</text>
+    <text y="150" font-family="Georgia, serif" font-style="italic" font-size="54">Flowers, Beautifully Told.</text>
+    <rect y="196" width="180" height="1" fill="#C6A66B"/>
+  </g>
+  <g transform="translate(880 150)" opacity="0.9">
+    <circle cx="140" cy="160" r="150" fill="none" stroke="#581F32" stroke-width="1.2" opacity="0.5"/>
+    <g fill="#D8A7AD">
+      <ellipse cx="140" cy="90" rx="42" ry="66"/>
+      <ellipse cx="140" cy="230" rx="42" ry="66"/>
+      <ellipse cx="70" cy="160" rx="66" ry="42"/>
+      <ellipse cx="210" cy="160" rx="66" ry="42"/>
+    </g>
+    <g fill="#B97A85">
+      <ellipse cx="140" cy="120" rx="26" ry="44" transform="rotate(45 140 160)"/>
+      <ellipse cx="140" cy="200" rx="26" ry="44" transform="rotate(45 140 160)"/>
+      <ellipse cx="100" cy="160" rx="44" ry="26" transform="rotate(45 140 160)"/>
+      <ellipse cx="180" cy="160" rx="44" ry="26" transform="rotate(45 140 160)"/>
+    </g>
+    <circle cx="140" cy="160" r="16" fill="#C6A66B"/>
+  </g>
+</svg>

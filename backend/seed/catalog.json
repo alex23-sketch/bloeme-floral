@@ -1,0 +1,4219 @@
+{
+  "generatedAt": "2026-11-05T04:28:28.872Z",
+  "collections": [
+    {
+      "slug": "signature-roses",
+      "name": "Signature Roses",
+      "tagline": "Garden roses, grown for scent and structure.",
+      "description": "Our house collection. Certified garden roses in the hues of the French countryside — blush, ivory, champagne and wine — hand-tied and delivered with a care card.",
+      "story": [
+        "The Signature Rose is the bloom that named the house. We grow them on day-neutral California acreage, cut them at first light, and spend the morning arranging them by hand so that each rose opens in its own time.",
+        "Every bouquet in this collection is built around the architecture of the flower itself: high centres, full petal age, and a fragrance that a perfume house would photograph for reference."
+      ],
+      "heroImageUrl": "art://blush/rose/signature-roses/hero",
+      "paletteName": "Burgundy & blush",
+      "position": 1,
+      "featured": true,
+      "seoTitle": "Signature Roses — Garden Rose Bouquets & Delivery",
+      "seoDescription": "Shop the Signature Roses collection — blush, ivory, champagne and wine garden roses, hand-tied in three sizes and delivered across the Arcadia metro."
+    },
+    {
+      "slug": "birthday-flowers",
+      "name": "Birthday Flowers",
+      "tagline": "Candles, confetti and joyful colour.",
+      "description": "Arrangements designed to be the best part of a party — saturated tulips, ranunculus and dahlias in palettes that flatter wrapping paper and birthday tables alike.",
+      "story": [
+        "Birthdays deserve flowers with an appetite for life. We lean on short, sturdy stems and colours with high saturation so the arrangement holds its sculpture through candles, cake and dancing.",
+        "Leaning bright without being brash, this collection is our most popular gift at the atelier counter."
+      ],
+      "heroImageUrl": "art://sunlit/tulip/birthday-flowers/hero",
+      "paletteName": "Sunlit citrus & berry",
+      "position": 2,
+      "featured": true,
+      "seoTitle": "Birthday Flowers — Joyful Bouquets Delivered Same-Day",
+      "seoDescription": "Send birthday flowers that feel like confetti — bright tulips, ranunculus and dahlias, beautifully wrapped with a handwritten card."
+    },
+    {
+      "slug": "wedding-romance",
+      "name": "Wedding & Romance",
+      "tagline": "For proposals, vows and anniversaries.",
+      "description": "Couture florals for the most photographed moments of your life — bridal bouquets, ceremony pieces and anniversary arrangements composed with intention.",
+      "story": [
+        "Whether it is a hand-tied bridal bouquet carried down an aisle or a table arrangement that holds a conversation, romance is about restraint as much as abundance.",
+        "Our wedding team books twelve consultations a month and composes every piece for the light of the venue, not the trend of the season."
+      ],
+      "heroImageUrl": "art://porcelain/peony/wedding-romance/hero",
+      "paletteName": "Porcelain & ivory",
+      "position": 3,
+      "featured": true,
+      "seoTitle": "Wedding Florals — Bouquets, Ceremony & Romance Flowers",
+      "seoDescription": "Wedding and romance flowers from Bloomé — bridal bouquets, ceremony arches and anniversary arrangements, composed for the light of your venue."
+    },
+    {
+      "slug": "sympathy-remembrance",
+      "name": "Sympathy & Remembrance",
+      "tagline": "Gentle arrangements in quiet tones.",
+      "description": "Considered flowers for honouring a life — white lilies, cream roses and soft greenery, delivered with dignity and a handwritten note.",
+      "story": [
+        "We take care with these arrangements that they say what words cannot: that someone is loved, and that the people carrying the grief are seen.",
+        "Sympathy orders are assembled quietly, out of traffic, and delivered in plain wrappers — never with branding on the exterior."
+      ],
+      "heroImageUrl": "art://porcelain/lily/sympathy-remembrance/hero",
+      "paletteName": "Porcelain white & green",
+      "position": 4,
+      "featured": false,
+      "seoTitle": "Sympathy Flowers & Remembrance Bouquets — Same-Day Delivery",
+      "seoDescription": "Sympathy and remembrance flowers in quiet, dignified tones — white lilies, cream roses and greenery, delivered with a handwritten note."
+    },
+    {
+      "slug": "seasonal-blooms",
+      "name": "Seasonal Blooms",
+      "tagline": "What is blooming, right now.",
+      "description": "A living collection that changes with the calendar — whatever our regional growers bring to the market this week, arranged with editorial calm.",
+      "story": [
+        "Seasonality is how we stay honest and how we stay good. The Seasonal Blooms collection is composed each Monday morning from the freshest arrivals at our growers’ coolers.",
+        "Order blindly and be surprised, or browse the notes that tell you exactly which farms your stems came from."
+      ],
+      "heroImageUrl": "art://autumn/garden/seasonal-blooms/hero",
+      "paletteName": "Autumn & garden gold",
+      "position": 5,
+      "featured": false,
+      "seoTitle": "Seasonal Flowers — Fresh Local Arrangements by Season",
+      "seoDescription": "Seasonal flower arrangements composed each week from regional growers — autumn golds, winter whites, spring pastels and summer celebrations."
+    },
+    {
+      "slug": "luxury-arrangements",
+      "name": "Luxury Arrangements",
+      "tagline": "Sculptural couture pieces, by the stem.",
+      "description": "Our most generous work — overscale arrangements in rare blooms, finished with silk ribbons and delivered with white-glove care.",
+      "story": [
+        "Luxury, at the atelier, means two things: stems that do not grow in every market, and a designer’s eye for negative space. The Luxury collection gives both full room.",
+        "Each piece is made to order, photographed in the studio, and delivered in a travelling vault that keeps the petals at 6°C until the doorbell rings."
+      ],
+      "heroImageUrl": "art://lavender/orchid/luxury-arrangements/hero",
+      "paletteName": "Wine, porcelain & lavender",
+      "position": 6,
+      "featured": false,
+      "seoTitle": "Luxury Flower Arrangements — White-Glove Delivery",
+      "seoDescription": "Sculptural luxury flower arrangements in rare blooms — orchids, peonies and garden roses, made to order and delivered by white-glove courier."
+    }
+  ],
+  "products": [
+    {
+      "sku": "BF-ROS-101",
+      "name": "Rose Antoinette",
+      "slug": "rose-antoinette",
+      "collection": "signature-roses",
+      "shortDescription": "Twelve garden roses in soft blush and cream — the bouquet that named the house.",
+      "description": "Named for the atelier’s founding muse, Rose Antoinette is a study in blush: garden roses at their most open, gathered with cream spray roses and a whisper of silver eucalyptus. It is our most reordered arrangement, and the one we photograph for the cover of every lookbook.",
+      "basePriceCents": 6800,
+      "compareAtPriceCents": 7900,
+      "categoryTags": [
+        "Anniversary",
+        "Garden roses",
+        "Romance"
+      ],
+      "colorPalette": [
+        {
+          "name": "Blush",
+          "hex": "#e4b7c0"
+        },
+        {
+          "name": "Cream",
+          "hex": "#f6ead9"
+        },
+        {
+          "name": "Rosewood",
+          "hex": "#b76e79"
+        },
+        {
+          "name": "Eucalyptus",
+          "hex": "#9aa382"
+        }
+      ],
+      "flowerTypes": [
+        "Garden rose",
+        "Spray rose",
+        "Silver eucalyptus"
+      ],
+      "dimensions": {
+        "width": 11,
+        "height": 18
+      },
+      "vaseIncluded": true,
+      "careInstructions": [
+        "Trim rose stems at a sharp 45° angle before arranging.",
+        "Roses drink best in lukewarm water; refresh every other day.",
+        "Keep away from fruit bowls — ethylene ages roses quickly.",
+        "Change the water every other day and stand the arrangement away from direct sun and heating vents."
+      ],
+      "featured": true,
+      "bestseller": true,
+      "newArrival": false,
+      "seoTitle": "Rose Antoinette — Luxury Flower Delivery",
+      "seoDescription": "Twelve garden roses in soft blush and cream — the bouquet that named the house. Available in Classic, Deluxe and Grand sizes with same-day delivery across the Arcadia metro.",
+      "images": [
+        {
+          "src": "art://blush/rose/rose-antoinette/full",
+          "alt": "Rose Antoinette — arrangement",
+          "position": 0
+        },
+        {
+          "src": "art://blush/rose/rose-antoinette/arch",
+          "alt": "Rose Antoinette — ateliier presentation",
+          "position": 1
+        },
+        {
+          "src": "art://blush/rose/rose-antoinette/detail",
+          "alt": "Rose Antoinette — detail of the arrangement",
+          "position": 2
+        }
+      ],
+      "variants": [
+        {
+          "size": "classic",
+          "label": "Classic",
+          "stems": "8–10 stems",
+          "description": "A gathered hand-tied bouquet of the finest stems, wrapped in ivory paper and finished with twine — our signature atelier size.",
+          "priceCents": 6800,
+          "compareAtPriceCents": null,
+          "sku": "BF-ROS-101-CLA",
+          "stockQty": 12,
+          "inStock": true
+        },
+        {
+          "size": "deluxe",
+          "label": "Deluxe",
+          "stems": "12–14 stems · premium bloom",
+          "description": "A fuller garden bouquet with premium blooms and added greenery, hand-tied, wrapped and finished with a champagne silk ribbon.",
+          "priceCents": 9800,
+          "compareAtPriceCents": null,
+          "sku": "BF-ROS-101-DEL",
+          "stockQty": 8,
+          "inStock": true
+        },
+        {
+          "size": "grand",
+          "label": "Grand",
+          "stems": "16–18 stems · silk ribbon",
+          "description": "Our most generous presentation — an abundant statement bouquet, hand-carried in the studio vault and delivered white-glove.",
+          "priceCents": 13200,
+          "compareAtPriceCents": null,
+          "sku": "BF-ROS-101-GRA",
+          "stockQty": 5,
+          "inStock": true
+        }
+      ]
+    },
+    {
+      "sku": "BF-ROS-102",
+      "name": "Velvet Noir",
+      "slug": "velvet-noir",
+      "collection": "signature-roses",
+      "shortDescription": "Deep burgundy garden roses for the quietest, most confident statements.",
+      "description": "Velvet Noir trades the palette of a garden for the palette of a candlelit room — burgundy and almost-black roses, dark waxed foliage and a single champagne ribbon. The flowers read like velvet because they are: dense petal count, restrained colour, nothing else on the table.",
+      "basePriceCents": 7400,
+      "compareAtPriceCents": null,
+      "categoryTags": [
+        "Anniversary",
+        "Statement",
+        "Evening"
+      ],
+      "colorPalette": [
+        {
+          "name": "Burgundy",
+          "hex": "#5d2033"
+        },
+        {
+          "name": "Wine",
+          "hex": "#7b2c43"
+        },
+        {
+          "name": "Noir",
+          "hex": "#3e1423"
+        },
+        {
+          "name": "Champagne",
+          "hex": "#c6a66b"
+        }
+      ],
+      "flowerTypes": [
+        "Burgundy garden rose",
+        "Waxed foliage",
+        "Dusty rose ranunculus"
+      ],
+      "dimensions": {
+        "width": 11,
+        "height": 17
+      },
+      "vaseIncluded": true,
+      "careInstructions": [
+        "Trim rose stems at a sharp 45° angle before arranging.",
+        "Roses drink best in lukewarm water; refresh every other day.",
+        "Keep away from fruit bowls — ethylene ages roses quickly.",
+        "Change the water every other day and stand the arrangement away from direct sun and heating vents."
+      ],
+      "featured": false,
+      "bestseller": true,
+      "newArrival": false,
+      "seoTitle": "Velvet Noir — Luxury Flower Delivery",
+      "seoDescription": "Deep burgundy garden roses for the quietest, most confident statements. Available in Classic, Deluxe and Grand sizes with same-day delivery across the Arcadia metro.",
+      "images": [
+        {
+          "src": "art://burgundy/rose/velvet-noir/full",
+          "alt": "Velvet Noir — arrangement",
+          "position": 0
+        },
+        {
+          "src": "art://burgundy/rose/velvet-noir/arch",
+          "alt": "Velvet Noir — ateliier presentation",
+          "position": 1
+        },
+        {
+          "src": "art://burgundy/rose/velvet-noir/detail",
+          "alt": "Velvet Noir — detail of the arrangement",
+          "position": 2
+        }
+      ],
+      "variants": [
+        {
+          "size": "classic",
+          "label": "Classic",
+          "stems": "8–10 stems",
+          "description": "A gathered hand-tied bouquet of the finest stems, wrapped in ivory paper and finished with twine — our signature atelier size.",
+          "priceCents": 7400,
+          "compareAtPriceCents": null,
+          "sku": "BF-ROS-102-CLA",
+          "stockQty": 10,
+          "inStock": true
+        },
+        {
+          "size": "deluxe",
+          "label": "Deluxe",
+          "stems": "12–14 stems · premium bloom",
+          "description": "A fuller garden bouquet with premium blooms and added greenery, hand-tied, wrapped and finished with a champagne silk ribbon.",
+          "priceCents": 10600,
+          "compareAtPriceCents": null,
+          "sku": "BF-ROS-102-DEL",
+          "stockQty": 7,
+          "inStock": true
+        },
+        {
+          "size": "grand",
+          "label": "Grand",
+          "stems": "16–18 stems · silk ribbon",
+          "description": "Our most generous presentation — an abundant statement bouquet, hand-carried in the studio vault and delivered white-glove.",
+          "priceCents": 14200,
+          "compareAtPriceCents": null,
+          "sku": "BF-ROS-102-GRA",
+          "stockQty": 4,
+          "inStock": true
+        }
+      ]
+    },
+    {
+      "sku": "BF-ROS-103",
+      "name": "Première Lumière",
+      "slug": "premiere-lumiere",
+      "collection": "signature-roses",
+      "shortDescription": "Ivory and cream roses that hold the morning light.",
+      "description": "Première Lumière — “first light” — is an all-cream composition built for soft rooms: ivory garden roses, cream ranunculus and a collar of pale eucalyptus. When the sun comes through a window, this bouquet is the brightest thing in it.",
+      "basePriceCents": 6200,
+      "compareAtPriceCents": null,
+      "categoryTags": [
+        "Everyday",
+        "Minimal",
+        "New home"
+      ],
+      "colorPalette": [
+        {
+          "name": "Ivory",
+          "hex": "#f6ead9"
+        },
+        {
+          "name": "Cream",
+          "hex": "#efe4cf"
+        },
+        {
+          "name": "Champagne",
+          "hex": "#e6d8bd"
+        },
+        {
+          "name": "Eucalyptus",
+          "hex": "#a7b294"
+        }
+      ],
+      "flowerTypes": [
+        "Ivory garden rose",
+        "Cream ranunculus",
+        "Pale eucalyptus"
+      ],
+      "dimensions": {
+        "width": 10,
+        "height": 17
+      },
+      "vaseIncluded": true,
+      "careInstructions": [
+        "Trim rose stems at a sharp 45° angle before arranging.",
+        "Roses drink best in lukewarm water; refresh every other day.",
+        "Keep away from fruit bowls — ethylene ages roses quickly.",
+        "Change the water every other day and stand the arrangement away from direct sun and heating vents."
+      ],
+      "featured": false,
+      "bestseller": true,
+      "newArrival": false,
+      "seoTitle": "Première Lumière — Luxury Flower Delivery",
+      "seoDescription": "Ivory and cream roses that hold the morning light. Available in Classic, Deluxe and Grand sizes with same-day delivery across the Arcadia metro.",
+      "images": [
+        {
+          "src": "art://porcelain/rose/premiere-lumiere/full",
+          "alt": "Première Lumière — arrangement",
+          "position": 0
+        },
+        {
+          "src": "art://porcelain/rose/premiere-lumiere/arch",
+          "alt": "Première Lumière — ateliier presentation",
+          "position": 1
+        },
+        {
+          "src": "art://porcelain/rose/premiere-lumiere/detail",
+          "alt": "Première Lumière — detail of the arrangement",
+          "position": 2
+        }
+      ],
+      "variants": [
+        {
+          "size": "classic",
+          "label": "Classic",
+          "stems": "7–9 stems",
+          "description": "A gathered hand-tied bouquet of the finest stems, wrapped in ivory paper and finished with twine — our signature atelier size.",
+          "priceCents": 6200,
+          "compareAtPriceCents": null,
+          "sku": "BF-ROS-103-CLA",
+          "stockQty": 14,
+          "inStock": true
+        },
+        {
+          "size": "deluxe",
+          "label": "Deluxe",
+          "stems": "11–13 stems · premium bloom",
+          "description": "A fuller garden bouquet with premium blooms and added greenery, hand-tied, wrapped and finished with a champagne silk ribbon.",
+          "priceCents": 9000,
+          "compareAtPriceCents": null,
+          "sku": "BF-ROS-103-DEL",
+          "stockQty": 9,
+          "inStock": true
+        },
+        {
+          "size": "grand",
+          "label": "Grand",
+          "stems": "15–17 stems · silk ribbon",
+          "description": "Our most generous presentation — an abundant statement bouquet, hand-carried in the studio vault and delivered white-glove.",
+          "priceCents": 12200,
+          "compareAtPriceCents": null,
+          "sku": "BF-ROS-103-GRA",
+          "stockQty": 6,
+          "inStock": true
+        }
+      ]
+    },
+    {
+      "sku": "BF-ROS-104",
+      "name": "Avignon Alexandrine",
+      "slug": "avignon-alexandrine",
+      "collection": "signature-roses",
+      "shortDescription": "Dusty-rose “Juliet” roses in the loosest, most garden-like gathering.",
+      "description": "The Juliet-style rose we grow for scent reads a little like peony, a little like something you picked on a walk. Avignon Alexandrine gathers those roses loosely, with trailing jasmine and a hand of dusty heaven — the bouquet for people who say they do not like bouquets.",
+      "basePriceCents": 7800,
+      "compareAtPriceCents": null,
+      "categoryTags": [
+        "Anniversary",
+        "Hand-tied",
+        "Garden style"
+      ],
+      "colorPalette": [
+        {
+          "name": "Dusty rose",
+          "hex": "#d8a7ad"
+        },
+        {
+          "name": "Soft blush",
+          "hex": "#e4b7c0"
+        },
+        {
+          "name": "Sage",
+          "hex": "#9aa382"
+        },
+        {
+          "name": "Ivory",
+          "hex": "#f6ead9"
+        }
+      ],
+      "flowerTypes": [
+        "Juliet garden rose",
+        "Trailing jasmine",
+        "Sage"
+      ],
+      "dimensions": {
+        "width": 11,
+        "height": 18
+      },
+      "vaseIncluded": false,
+      "careInstructions": [
+        "Trim rose stems at a sharp 45° angle before arranging.",
+        "Roses drink best in lukewarm water; refresh every other day.",
+        "Keep away from fruit bowls — ethylene ages roses quickly.",
+        "Change the water every other day and stand the arrangement away from direct sun and heating vents."
+      ],
+      "featured": true,
+      "bestseller": false,
+      "newArrival": false,
+      "seoTitle": "Avignon Alexandrine — Luxury Flower Delivery",
+      "seoDescription": "Dusty-rose “Juliet” roses in the loosest, most garden-like gathering. Available in Classic, Deluxe and Grand sizes with same-day delivery across the Arcadia metro.",
+      "images": [
+        {
+          "src": "art://blush/garden/avignon-alexandrine/full",
+          "alt": "Avignon Alexandrine — arrangement",
+          "position": 0
+        },
+        {
+          "src": "art://blush/garden/avignon-alexandrine/arch",
+          "alt": "Avignon Alexandrine — ateliier presentation",
+          "position": 1
+        },
+        {
+          "src": "art://blush/garden/avignon-alexandrine/detail",
+          "alt": "Avignon Alexandrine — detail of the arrangement",
+          "position": 2
+        }
+      ],
+      "variants": [
+        {
+          "size": "classic",
+          "label": "Classic",
+          "stems": "10–12 stems",
+          "description": "A gathered hand-tied bouquet of the finest stems, wrapped in ivory paper and finished with twine — our signature atelier size.",
+          "priceCents": 7800,
+          "compareAtPriceCents": null,
+          "sku": "BF-ROS-104-CLA",
+          "stockQty": 9,
+          "inStock": true
+        },
+        {
+          "size": "deluxe",
+          "label": "Deluxe",
+          "stems": "14–16 stems · garden wrap",
+          "description": "A fuller garden bouquet with premium blooms and added greenery, hand-tied, wrapped and finished with a champagne silk ribbon.",
+          "priceCents": 11200,
+          "compareAtPriceCents": null,
+          "sku": "BF-ROS-104-DEL",
+          "stockQty": 6,
+          "inStock": true
+        },
+        {
+          "size": "grand",
+          "label": "Grand",
+          "stems": "18–20 stems · silk ribbon",
+          "description": "Our most generous presentation — an abundant statement bouquet, hand-carried in the studio vault and delivered white-glove.",
+          "priceCents": 15000,
+          "compareAtPriceCents": null,
+          "sku": "BF-ROS-104-GRA",
+          "stockQty": 4,
+          "inStock": true
+        }
+      ]
+    },
+    {
+      "sku": "BF-ROS-105",
+      "name": "Heure d’Or",
+      "slug": "heure-dor",
+      "collection": "signature-roses",
+      "shortDescription": "Champagne roses for golden-hour tables and long celebrations.",
+      "description": "Heure d’Or — “golden hour” — is the colour of five o’clock light in late October: champagne roses, antique peach ranunculus and a brushed-copper vessel. It performs beautifully on dinner tables, where it holds its shape through dessert and conversation.",
+      "basePriceCents": 8400,
+      "compareAtPriceCents": null,
+      "categoryTags": [
+        "Dinner party",
+        "Anniversary",
+        "Warm tones"
+      ],
+      "colorPalette": [
+        {
+          "name": "Champagne",
+          "hex": "#e6c98f"
+        },
+        {
+          "name": "Antique peach",
+          "hex": "#e8b48a"
+        },
+        {
+          "name": "Honey",
+          "hex": "#c98f4a"
+        },
+        {
+          "name": "Bronze",
+          "hex": "#a97a43"
+        }
+      ],
+      "flowerTypes": [
+        "Champagne garden rose",
+        "Antique peach ranunculus",
+        "Dusty blue thistle"
+      ],
+      "dimensions": {
+        "width": 12,
+        "height": 16
+      },
+      "vaseIncluded": true,
+      "careInstructions": [
+        "Trim rose stems at a sharp 45° angle before arranging.",
+        "Roses drink best in lukewarm water; refresh every other day.",
+        "Keep away from fruit bowls — ethylene ages roses quickly.",
+        "Change the water every other day and stand the arrangement away from direct sun and heating vents."
+      ],
+      "featured": false,
+      "bestseller": true,
+      "newArrival": false,
+      "seoTitle": "Heure d’Or — Luxury Flower Delivery",
+      "seoDescription": "Champagne roses for golden-hour tables and long celebrations. Available in Classic, Deluxe and Grand sizes with same-day delivery across the Arcadia metro.",
+      "images": [
+        {
+          "src": "art://sunlit/rose/heure-dor/full",
+          "alt": "Heure d’Or — arrangement",
+          "position": 0
+        },
+        {
+          "src": "art://sunlit/rose/heure-dor/arch",
+          "alt": "Heure d’Or — ateliier presentation",
+          "position": 1
+        },
+        {
+          "src": "art://sunlit/rose/heure-dor/detail",
+          "alt": "Heure d’Or — detail of the arrangement",
+          "position": 2
+        }
+      ],
+      "variants": [
+        {
+          "size": "classic",
+          "label": "Classic",
+          "stems": "9–11 stems",
+          "description": "A gathered hand-tied bouquet of the finest stems, wrapped in ivory paper and finished with twine — our signature atelier size.",
+          "priceCents": 8400,
+          "compareAtPriceCents": null,
+          "sku": "BF-ROS-105-CLA",
+          "stockQty": 11,
+          "inStock": true
+        },
+        {
+          "size": "deluxe",
+          "label": "Deluxe",
+          "stems": "13–15 stems · premium bloom",
+          "description": "A fuller garden bouquet with premium blooms and added greenery, hand-tied, wrapped and finished with a champagne silk ribbon.",
+          "priceCents": 12000,
+          "compareAtPriceCents": null,
+          "sku": "BF-ROS-105-DEL",
+          "stockQty": 7,
+          "inStock": true
+        },
+        {
+          "size": "grand",
+          "label": "Grand",
+          "stems": "17–19 stems · silk ribbon",
+          "description": "Our most generous presentation — an abundant statement bouquet, hand-carried in the studio vault and delivered white-glove.",
+          "priceCents": 16000,
+          "compareAtPriceCents": null,
+          "sku": "BF-ROS-105-GRA",
+          "stockQty": 5,
+          "inStock": true
+        }
+      ]
+    },
+    {
+      "sku": "BF-ROS-106",
+      "name": "Bohème en Vin",
+      "slug": "boheme-en-vin",
+      "collection": "signature-roses",
+      "shortDescription": "Wine, mauve and berry roses in an artist’s palette.",
+      "description": "A painter’s bouquet: wine-red roses, mauve scabiosa and blackberry dahlias, composed with the slightly off-balance confidence of a colour study. It asks to be placed somewhere it will be noticed, and repays the attention for two weeks.",
+      "basePriceCents": 7200,
+      "compareAtPriceCents": null,
+      "categoryTags": [
+        "Artist’s pick",
+        "Evening",
+        "Statement"
+      ],
+      "colorPalette": [
+        {
+          "name": "Wine",
+          "hex": "#7b2c43"
+        },
+        {
+          "name": "Mauve",
+          "hex": "#9b7a9c"
+        },
+        {
+          "name": "Berry",
+          "hex": "#8a3b52"
+        },
+        {
+          "name": "Fig",
+          "hex": "#5c3a49"
+        }
+      ],
+      "flowerTypes": [
+        "Wine garden rose",
+        "Mauve scabiosa",
+        "Blackberry dahlia"
+      ],
+      "dimensions": {
+        "width": 11,
+        "height": 18
+      },
+      "vaseIncluded": true,
+      "careInstructions": [
+        "Trim rose stems at a sharp 45° angle before arranging.",
+        "Roses drink best in lukewarm water; refresh every other day.",
+        "Keep away from fruit bowls — ethylene ages roses quickly.",
+        "Change the water every other day and stand the arrangement away from direct sun and heating vents."
+      ],
+      "featured": false,
+      "bestseller": false,
+      "newArrival": true,
+      "seoTitle": "Bohème en Vin — Luxury Flower Delivery",
+      "seoDescription": "Wine, mauve and berry roses in an artist’s palette. Available in Classic, Deluxe and Grand sizes with same-day delivery across the Arcadia metro.",
+      "images": [
+        {
+          "src": "art://burgundy/dahlia/boheme-en-vin/full",
+          "alt": "Bohème en Vin — arrangement",
+          "position": 0
+        },
+        {
+          "src": "art://burgundy/dahlia/boheme-en-vin/arch",
+          "alt": "Bohème en Vin — ateliier presentation",
+          "position": 1
+        },
+        {
+          "src": "art://burgundy/dahlia/boheme-en-vin/detail",
+          "alt": "Bohème en Vin — detail of the arrangement",
+          "position": 2
+        }
+      ],
+      "variants": [
+        {
+          "size": "classic",
+          "label": "Classic",
+          "stems": "9–11 stems",
+          "description": "A gathered hand-tied bouquet of the finest stems, wrapped in ivory paper and finished with twine — our signature atelier size.",
+          "priceCents": 7200,
+          "compareAtPriceCents": null,
+          "sku": "BF-ROS-106-CLA",
+          "stockQty": 8,
+          "inStock": true
+        },
+        {
+          "size": "deluxe",
+          "label": "Deluxe",
+          "stems": "13–15 stems · premium bloom",
+          "description": "A fuller garden bouquet with premium blooms and added greenery, hand-tied, wrapped and finished with a champagne silk ribbon.",
+          "priceCents": 10400,
+          "compareAtPriceCents": null,
+          "sku": "BF-ROS-106-DEL",
+          "stockQty": 5,
+          "inStock": true
+        },
+        {
+          "size": "grand",
+          "label": "Grand",
+          "stems": "17–19 stems · silk ribbon",
+          "description": "Our most generous presentation — an abundant statement bouquet, hand-carried in the studio vault and delivered white-glove.",
+          "priceCents": 14000,
+          "compareAtPriceCents": null,
+          "sku": "BF-ROS-106-GRA",
+          "stockQty": 3,
+          "inStock": true
+        }
+      ]
+    },
+    {
+      "sku": "BF-BIR-201",
+      "name": "Joyeux Anniversaire",
+      "slug": "joyeux-anniversaire",
+      "collection": "birthday-flowers",
+      "shortDescription": "Rounded ranunculus in birthday-bright coral, blush and tangerine.",
+      "description": "The party-leader of the collection: coral ranunculus stacked beside tangerine tulips and a spray of rose confetti, wrapped in paper printed with the atelier monogram. It looks like a celebration even before the candle is lit.",
+      "basePriceCents": 5800,
+      "compareAtPriceCents": null,
+      "categoryTags": [
+        "Birthday",
+        "Vibrant",
+        "Gift"
+      ],
+      "colorPalette": [
+        {
+          "name": "Coral",
+          "hex": "#e8846a"
+        },
+        {
+          "name": "Tangerine",
+          "hex": "#e59a4d"
+        },
+        {
+          "name": "Blush",
+          "hex": "#e4b7c0"
+        },
+        {
+          "name": "Cream",
+          "hex": "#f6ead9"
+        }
+      ],
+      "flowerTypes": [
+        "Coral ranunculus",
+        "Tangerine tulips",
+        "Rose confetti",
+        "Yellow solidago"
+      ],
+      "dimensions": {
+        "width": 10,
+        "height": 16
+      },
+      "vaseIncluded": false,
+      "careInstructions": [
+        "Ranunculus stems are hollow — cut low and water them early in the day.",
+        "Cut tulip stems straight (not on an angle) — they keep growing after cutting.",
+        "Keep water level high; tulips drink noticeably overnight.",
+        "Change the water every other day and stand the arrangement away from direct sun and heating vents."
+      ],
+      "featured": false,
+      "bestseller": true,
+      "newArrival": true,
+      "seoTitle": "Joyeux Anniversaire — Luxury Flower Delivery",
+      "seoDescription": "Rounded ranunculus in birthday-bright coral, blush and tangerine. Available in Classic, Deluxe and Grand sizes with same-day delivery across the Arcadia metro.",
+      "images": [
+        {
+          "src": "art://sunlit/ranunculus/joyeux-anniversaire/full",
+          "alt": "Joyeux Anniversaire — arrangement",
+          "position": 0
+        },
+        {
+          "src": "art://sunlit/ranunculus/joyeux-anniversaire/arch",
+          "alt": "Joyeux Anniversaire — ateliier presentation",
+          "position": 1
+        },
+        {
+          "src": "art://sunlit/ranunculus/joyeux-anniversaire/detail",
+          "alt": "Joyeux Anniversaire — detail of the arrangement",
+          "position": 2
+        }
+      ],
+      "variants": [
+        {
+          "size": "classic",
+          "label": "Classic",
+          "stems": "8–10 stems",
+          "description": "A gathered hand-tied bouquet of the finest stems, wrapped in ivory paper and finished with twine — our signature atelier size.",
+          "priceCents": 5800,
+          "compareAtPriceCents": null,
+          "sku": "BF-BIR-201-CLA",
+          "stockQty": 16,
+          "inStock": true
+        },
+        {
+          "size": "deluxe",
+          "label": "Deluxe",
+          "stems": "12–14 stems · premium bloom",
+          "description": "A fuller garden bouquet with premium blooms and added greenery, hand-tied, wrapped and finished with a champagne silk ribbon.",
+          "priceCents": 8600,
+          "compareAtPriceCents": null,
+          "sku": "BF-BIR-201-DEL",
+          "stockQty": 10,
+          "inStock": true
+        },
+        {
+          "size": "grand",
+          "label": "Grand",
+          "stems": "16–18 stems · silk ribbon",
+          "description": "Our most generous presentation — an abundant statement bouquet, hand-carried in the studio vault and delivered white-glove.",
+          "priceCents": 11800,
+          "compareAtPriceCents": null,
+          "sku": "BF-BIR-201-GRA",
+          "stockQty": 6,
+          "inStock": true
+        }
+      ]
+    },
+    {
+      "sku": "BF-BIR-202",
+      "name": "Citrus Éclat",
+      "slug": "citrus-eclat",
+      "collection": "birthday-flowers",
+      "shortDescription": "Orange dahlias and lemon cress — the juice of the season, in a vase.",
+      "description": "Éclat means burst, and this is a bouquet that bursts: vermilion dahlias, orange ranunculus and lemon cress in a palette borrowed from the market stall. Bright enough for a brunch table, awake enough for the whole week.",
+      "basePriceCents": 5400,
+      "compareAtPriceCents": null,
+      "categoryTags": [
+        "Birthday",
+        "Summer",
+        "Citrus"
+      ],
+      "colorPalette": [
+        {
+          "name": "Vermilion",
+          "hex": "#d95d39"
+        },
+        {
+          "name": "Tangerine",
+          "hex": "#e59a4d"
+        },
+        {
+          "name": "Lemon",
+          "hex": "#e8c95a"
+        },
+        {
+          "name": "Cream",
+          "hex": "#f6ead9"
+        }
+      ],
+      "flowerTypes": [
+        "Vermilion dahlia",
+        "Orange ranunculus",
+        "Lemon cress",
+        "Bachelor’s button"
+      ],
+      "dimensions": {
+        "width": 11,
+        "height": 18
+      },
+      "vaseIncluded": false,
+      "careInstructions": [
+        "Dahlias prefer cool water and a low-sugar vase life. Re-cut daily to keep the heads upright.",
+        "Ranunculus stems are hollow — cut low and water them early in the day.",
+        "Change the water every other day and stand the arrangement away from direct sun and heating vents."
+      ],
+      "featured": false,
+      "bestseller": true,
+      "newArrival": false,
+      "seoTitle": "Citrus Éclat — Luxury Flower Delivery",
+      "seoDescription": "Orange dahlias and lemon cress — the juice of the season, in a vase. Available in Classic, Deluxe and Grand sizes with same-day delivery across the Arcadia metro.",
+      "images": [
+        {
+          "src": "art://sunlit/dahlia/citrus-eclat/full",
+          "alt": "Citrus Éclat — arrangement",
+          "position": 0
+        },
+        {
+          "src": "art://sunlit/dahlia/citrus-eclat/arch",
+          "alt": "Citrus Éclat — ateliier presentation",
+          "position": 1
+        },
+        {
+          "src": "art://sunlit/dahlia/citrus-eclat/detail",
+          "alt": "Citrus Éclat — detail of the arrangement",
+          "position": 2
+        }
+      ],
+      "variants": [
+        {
+          "size": "classic",
+          "label": "Classic",
+          "stems": "7–9 stems",
+          "description": "A gathered hand-tied bouquet of the finest stems, wrapped in ivory paper and finished with twine — our signature atelier size.",
+          "priceCents": 5400,
+          "compareAtPriceCents": null,
+          "sku": "BF-BIR-202-CLA",
+          "stockQty": 15,
+          "inStock": true
+        },
+        {
+          "size": "deluxe",
+          "label": "Deluxe",
+          "stems": "11–13 stems · premium bloom",
+          "description": "A fuller garden bouquet with premium blooms and added greenery, hand-tied, wrapped and finished with a champagne silk ribbon.",
+          "priceCents": 8000,
+          "compareAtPriceCents": null,
+          "sku": "BF-BIR-202-DEL",
+          "stockQty": 9,
+          "inStock": true
+        },
+        {
+          "size": "grand",
+          "label": "Grand",
+          "stems": "15–17 stems · silk ribbon",
+          "description": "Our most generous presentation — an abundant statement bouquet, hand-carried in the studio vault and delivered white-glove.",
+          "priceCents": 11000,
+          "compareAtPriceCents": null,
+          "sku": "BF-BIR-202-GRA",
+          "stockQty": 5,
+          "inStock": true
+        }
+      ]
+    },
+    {
+      "sku": "BF-BIR-203",
+      "name": "Rose Party",
+      "slug": "rose-party",
+      "collection": "birthday-flowers",
+      "shortDescription": "A dessert-pink party in a wrap — spray roses, peony and raspberry.",
+      "description": "Rose Party is the colour of birthday cake: hot-pink spray roses, a blush peony and raspberry ranunculus gathered into a tight, round, unapologetically pink parcel. It photographs beautifully and the recipient will hold it like a trophy.",
+      "basePriceCents": 6000,
+      "compareAtPriceCents": null,
+      "categoryTags": [
+        "Birthday",
+        "Pink",
+        "Celebration"
+      ],
+      "colorPalette": [
+        {
+          "name": "Hot pink",
+          "hex": "#d9658d"
+        },
+        {
+          "name": "Blush",
+          "hex": "#e4b7c0"
+        },
+        {
+          "name": "Raspberry",
+          "hex": "#c22f56"
+        },
+        {
+          "name": "Cream",
+          "hex": "#f6ead9"
+        }
+      ],
+      "flowerTypes": [
+        "Hot-pink spray rose",
+        "Blush peony",
+        "Raspberry ranunculus"
+      ],
+      "dimensions": {
+        "width": 11,
+        "height": 18
+      },
+      "vaseIncluded": false,
+      "careInstructions": [
+        "Trim rose stems at a sharp 45° angle before arranging.",
+        "Roses drink best in lukewarm water; refresh every other day.",
+        "Keep away from fruit bowls — ethylene ages roses quickly.",
+        "Change the water every other day and stand the arrangement away from direct sun and heating vents."
+      ],
+      "featured": false,
+      "bestseller": true,
+      "newArrival": false,
+      "seoTitle": "Rose Party — Luxury Flower Delivery",
+      "seoDescription": "A dessert-pink party in a wrap — spray roses, peony and raspberry. Available in Classic, Deluxe and Grand sizes with same-day delivery across the Arcadia metro.",
+      "images": [
+        {
+          "src": "art://blush/peony/rose-party/full",
+          "alt": "Rose Party — arrangement",
+          "position": 0
+        },
+        {
+          "src": "art://blush/peony/rose-party/arch",
+          "alt": "Rose Party — ateliier presentation",
+          "position": 1
+        },
+        {
+          "src": "art://blush/peony/rose-party/detail",
+          "alt": "Rose Party — detail of the arrangement",
+          "position": 2
+        }
+      ],
+      "variants": [
+        {
+          "size": "classic",
+          "label": "Classic",
+          "stems": "8–10 stems",
+          "description": "A gathered hand-tied bouquet of the finest stems, wrapped in ivory paper and finished with twine — our signature atelier size.",
+          "priceCents": 6000,
+          "compareAtPriceCents": null,
+          "sku": "BF-BIR-203-CLA",
+          "stockQty": 13,
+          "inStock": true
+        },
+        {
+          "size": "deluxe",
+          "label": "Deluxe",
+          "stems": "12–14 stems · premium bloom",
+          "description": "A fuller garden bouquet with premium blooms and added greenery, hand-tied, wrapped and finished with a champagne silk ribbon.",
+          "priceCents": 9000,
+          "compareAtPriceCents": null,
+          "sku": "BF-BIR-203-DEL",
+          "stockQty": 8,
+          "inStock": true
+        },
+        {
+          "size": "grand",
+          "label": "Grand",
+          "stems": "16–18 stems · silk ribbon",
+          "description": "Our most generous presentation — an abundant statement bouquet, hand-carried in the studio vault and delivered white-glove.",
+          "priceCents": 12400,
+          "compareAtPriceCents": null,
+          "sku": "BF-BIR-203-GRA",
+          "stockQty": 5,
+          "inStock": true
+        }
+      ]
+    },
+    {
+      "sku": "BF-BIR-204",
+      "name": "Soleil Levant",
+      "slug": "soleil-levant",
+      "collection": "birthday-flowers",
+      "shortDescription": "Yellow tulips that rise like a morning alarm you are happy to hear.",
+      "description": "Soleil Levant is all optimism: butter-yellow tulips at their most vertical, green bell peppers of ranunculus, and a small sunburst of solidago. It belongs on a breakfast table, or anywhere a person needs to be reminded that the day has started well.",
+      "basePriceCents": 5000,
+      "compareAtPriceCents": null,
+      "categoryTags": [
+        "Birthday",
+        "Yellow",
+        "Morning"
+      ],
+      "colorPalette": [
+        {
+          "name": "Butter yellow",
+          "hex": "#e8c95a"
+        },
+        {
+          "name": "Saffron",
+          "hex": "#d99a3e"
+        },
+        {
+          "name": "Green apple",
+          "hex": "#a8b55a"
+        },
+        {
+          "name": "Cream",
+          "hex": "#f6ead9"
+        }
+      ],
+      "flowerTypes": [
+        "Butter-yellow tulips",
+        "Green ranunculus",
+        "Solidago"
+      ],
+      "dimensions": {
+        "width": 9,
+        "height": 18
+      },
+      "vaseIncluded": false,
+      "careInstructions": [
+        "Cut tulip stems straight (not on an angle) — they keep growing after cutting.",
+        "Keep water level high; tulips drink noticeably overnight.",
+        "Ranunculus stems are hollow — cut low and water them early in the day.",
+        "Change the water every other day and stand the arrangement away from direct sun and heating vents."
+      ],
+      "featured": false,
+      "bestseller": false,
+      "newArrival": true,
+      "seoTitle": "Soleil Levant — Luxury Flower Delivery",
+      "seoDescription": "Yellow tulips that rise like a morning alarm you are happy to hear. Available in Classic, Deluxe and Grand sizes with same-day delivery across the Arcadia metro.",
+      "images": [
+        {
+          "src": "art://sunlit/tulip/soleil-levant/full",
+          "alt": "Soleil Levant — arrangement",
+          "position": 0
+        },
+        {
+          "src": "art://sunlit/tulip/soleil-levant/arch",
+          "alt": "Soleil Levant — ateliier presentation",
+          "position": 1
+        },
+        {
+          "src": "art://sunlit/tulip/soleil-levant/detail",
+          "alt": "Soleil Levant — detail of the arrangement",
+          "position": 2
+        }
+      ],
+      "variants": [
+        {
+          "size": "classic",
+          "label": "Classic",
+          "stems": "10–12 stems",
+          "description": "A gathered hand-tied bouquet of the finest stems, wrapped in ivory paper and finished with twine — our signature atelier size.",
+          "priceCents": 5000,
+          "compareAtPriceCents": null,
+          "sku": "BF-BIR-204-CLA",
+          "stockQty": 18,
+          "inStock": true
+        },
+        {
+          "size": "deluxe",
+          "label": "Deluxe",
+          "stems": "14–16 stems · premium bloom",
+          "description": "A fuller garden bouquet with premium blooms and added greenery, hand-tied, wrapped and finished with a champagne silk ribbon.",
+          "priceCents": 7600,
+          "compareAtPriceCents": null,
+          "sku": "BF-BIR-204-DEL",
+          "stockQty": 11,
+          "inStock": true
+        },
+        {
+          "size": "grand",
+          "label": "Grand",
+          "stems": "18–20 stems · silk ribbon",
+          "description": "Our most generous presentation — an abundant statement bouquet, hand-carried in the studio vault and delivered white-glove.",
+          "priceCents": 10600,
+          "compareAtPriceCents": null,
+          "sku": "BF-BIR-204-GRA",
+          "stockQty": 7,
+          "inStock": true
+        }
+      ]
+    },
+    {
+      "sku": "BF-BIR-205",
+      "name": "Confetti",
+      "slug": "confetti",
+      "collection": "birthday-flowers",
+      "shortDescription": "The whole market, gathered — our most colourful mixed bouquet.",
+      "description": "Confetti is the bouquet we love to argue about: every colour in the room at once, in deliberately mismatched heights, finished with a printed ribbon that says what the flowers already have. Give it to the person who makes everything livelier.",
+      "basePriceCents": 5600,
+      "compareAtPriceCents": null,
+      "categoryTags": [
+        "Birthday",
+        "Mixed",
+        "Colourful"
+      ],
+      "colorPalette": [
+        {
+          "name": "Coral",
+          "hex": "#e8846a"
+        },
+        {
+          "name": "Saffron",
+          "hex": "#d99a3e"
+        },
+        {
+          "name": "Lavender",
+          "hex": "#9d8dbb"
+        },
+        {
+          "name": "Hot pink",
+          "hex": "#d9658d"
+        }
+      ],
+      "flowerTypes": [
+        "Spray rose",
+        "Ranunculus",
+        "Scabiosa",
+        "Solidago",
+        "Aster"
+      ],
+      "dimensions": {
+        "width": 11,
+        "height": 18
+      },
+      "vaseIncluded": false,
+      "careInstructions": [
+        "Trim rose stems at a sharp 45° angle before arranging.",
+        "Roses drink best in lukewarm water; refresh every other day.",
+        "Keep away from fruit bowls — ethylene ages roses quickly.",
+        "Change the water every other day and stand the arrangement away from direct sun and heating vents."
+      ],
+      "featured": false,
+      "bestseller": false,
+      "newArrival": false,
+      "seoTitle": "Confetti — Luxury Flower Delivery",
+      "seoDescription": "The whole market, gathered — our most colourful mixed bouquet. Available in Classic, Deluxe and Grand sizes with same-day delivery across the Arcadia metro.",
+      "images": [
+        {
+          "src": "art://garden/mixed/confetti/full",
+          "alt": "Confetti — arrangement",
+          "position": 0
+        },
+        {
+          "src": "art://garden/mixed/confetti/arch",
+          "alt": "Confetti — ateliier presentation",
+          "position": 1
+        },
+        {
+          "src": "art://garden/mixed/confetti/detail",
+          "alt": "Confetti — detail of the arrangement",
+          "position": 2
+        }
+      ],
+      "variants": [
+        {
+          "size": "classic",
+          "label": "Classic",
+          "stems": "10–12 stems",
+          "description": "A gathered hand-tied bouquet of the finest stems, wrapped in ivory paper and finished with twine — our signature atelier size.",
+          "priceCents": 5600,
+          "compareAtPriceCents": null,
+          "sku": "BF-BIR-205-CLA",
+          "stockQty": 17,
+          "inStock": true
+        },
+        {
+          "size": "deluxe",
+          "label": "Deluxe",
+          "stems": "14–16 stems · garden wrap",
+          "description": "A fuller garden bouquet with premium blooms and added greenery, hand-tied, wrapped and finished with a champagne silk ribbon.",
+          "priceCents": 8400,
+          "compareAtPriceCents": null,
+          "sku": "BF-BIR-205-DEL",
+          "stockQty": 12,
+          "inStock": true
+        },
+        {
+          "size": "grand",
+          "label": "Grand",
+          "stems": "18–20 stems · silk ribbon",
+          "description": "Our most generous presentation — an abundant statement bouquet, hand-carried in the studio vault and delivered white-glove.",
+          "priceCents": 11600,
+          "compareAtPriceCents": null,
+          "sku": "BF-BIR-205-GRA",
+          "stockQty": 8,
+          "inStock": true
+        }
+      ]
+    },
+    {
+      "sku": "BF-BIR-206",
+      "name": "Baies d’Été",
+      "slug": "baies-dete",
+      "collection": "birthday-flowers",
+      "shortDescription": "Berry-bright roses with blackberry and hypericum for a sweet tooth.",
+      "description": "Dessert-coloured flowers: raspberry spray roses, blackberry dahlia heads and the little coral berries of hypericum, set off by deep green foliage. Baies d’Été is the gift for anyone who says they prefer berries to roses — this has both.",
+      "basePriceCents": 6200,
+      "compareAtPriceCents": null,
+      "categoryTags": [
+        "Birthday",
+        "Berry",
+        "Sweet"
+      ],
+      "colorPalette": [
+        {
+          "name": "Raspberry",
+          "hex": "#c22f56"
+        },
+        {
+          "name": "Blackberry",
+          "hex": "#5d2b45"
+        },
+        {
+          "name": "Coral",
+          "hex": "#e8846a"
+        },
+        {
+          "name": "Deep green",
+          "hex": "#4f6b4a"
+        }
+      ],
+      "flowerTypes": [
+        "Raspberry spray rose",
+        "Blackberry dahlia",
+        "Hypericum berry",
+        "Dark green salal"
+      ],
+      "dimensions": {
+        "width": 11,
+        "height": 18
+      },
+      "vaseIncluded": true,
+      "careInstructions": [
+        "Trim rose stems at a sharp 45° angle before arranging.",
+        "Roses drink best in lukewarm water; refresh every other day.",
+        "Keep away from fruit bowls — ethylene ages roses quickly.",
+        "Change the water every other day and stand the arrangement away from direct sun and heating vents."
+      ],
+      "featured": false,
+      "bestseller": false,
+      "newArrival": true,
+      "seoTitle": "Baies d’Été — Luxury Flower Delivery",
+      "seoDescription": "Berry-bright roses with blackberry and hypericum for a sweet tooth. Available in Classic, Deluxe and Grand sizes with same-day delivery across the Arcadia metro.",
+      "images": [
+        {
+          "src": "art://burgundy/mixed/baies-dete/full",
+          "alt": "Baies d’Été — arrangement",
+          "position": 0
+        },
+        {
+          "src": "art://burgundy/mixed/baies-dete/arch",
+          "alt": "Baies d’Été — ateliier presentation",
+          "position": 1
+        },
+        {
+          "src": "art://burgundy/mixed/baies-dete/detail",
+          "alt": "Baies d’Été — detail of the arrangement",
+          "position": 2
+        }
+      ],
+      "variants": [
+        {
+          "size": "classic",
+          "label": "Classic",
+          "stems": "8–10 stems",
+          "description": "A gathered hand-tied bouquet of the finest stems, wrapped in ivory paper and finished with twine — our signature atelier size.",
+          "priceCents": 6200,
+          "compareAtPriceCents": null,
+          "sku": "BF-BIR-206-CLA",
+          "stockQty": 12,
+          "inStock": true
+        },
+        {
+          "size": "deluxe",
+          "label": "Deluxe",
+          "stems": "12–14 stems · premium bloom",
+          "description": "A fuller garden bouquet with premium blooms and added greenery, hand-tied, wrapped and finished with a champagne silk ribbon.",
+          "priceCents": 9200,
+          "compareAtPriceCents": null,
+          "sku": "BF-BIR-206-DEL",
+          "stockQty": 8,
+          "inStock": true
+        },
+        {
+          "size": "grand",
+          "label": "Grand",
+          "stems": "16–18 stems · silk ribbon",
+          "description": "Our most generous presentation — an abundant statement bouquet, hand-carried in the studio vault and delivered white-glove.",
+          "priceCents": 12600,
+          "compareAtPriceCents": null,
+          "sku": "BF-BIR-206-GRA",
+          "stockQty": 5,
+          "inStock": true
+        }
+      ]
+    },
+    {
+      "sku": "BF-WED-301",
+      "name": "La Mariée",
+      "slug": "la-mariee",
+      "collection": "wedding-romance",
+      "shortDescription": "The bridal classic — ivory peonies and garden roses, hand-tied for the aisle.",
+      "description": "La Mariée is the bouquet we hand-tie for the moment of the aisle: ivory peonies at their most generous, garden roses still opening, and a trailing ribbon the colour of champagne. It is composed to photograph in any light and to be carried with one hand held loose.",
+      "basePriceCents": 14800,
+      "compareAtPriceCents": null,
+      "categoryTags": [
+        "Bridal",
+        "Peony",
+        "Wedding"
+      ],
+      "colorPalette": [
+        {
+          "name": "Ivory",
+          "hex": "#f6ead9"
+        },
+        {
+          "name": "Cream",
+          "hex": "#efe4cf"
+        },
+        {
+          "name": "Champagne",
+          "hex": "#e6d8bd"
+        },
+        {
+          "name": "Sage",
+          "hex": "#9aa382"
+        }
+      ],
+      "flowerTypes": [
+        "Ivory peony",
+        "Cream garden rose",
+        "Trailing freesia",
+        "Silver eucalyptus"
+      ],
+      "dimensions": {
+        "width": 13,
+        "height": 20
+      },
+      "vaseIncluded": false,
+      "careInstructions": [
+        "For tightly closed peonies, unwrap and give them 24 hours in a cool room to open.",
+        "Support heavy peony heads with wide-necked vessels.",
+        "Trim rose stems at a sharp 45° angle before arranging.",
+        "Change the water every other day and stand the arrangement away from direct sun and heating vents."
+      ],
+      "featured": true,
+      "bestseller": true,
+      "newArrival": false,
+      "seoTitle": "La Mariée — Luxury Flower Delivery",
+      "seoDescription": "The bridal classic — ivory peonies and garden roses, hand-tied for the aisle. Available in Classic, Deluxe and Grand sizes with same-day delivery across the Arcadia metro.",
+      "images": [
+        {
+          "src": "art://porcelain/peony/la-mariee/full",
+          "alt": "La Mariée — arrangement",
+          "position": 0
+        },
+        {
+          "src": "art://porcelain/peony/la-mariee/arch",
+          "alt": "La Mariée — ateliier presentation",
+          "position": 1
+        },
+        {
+          "src": "art://porcelain/peony/la-mariee/detail",
+          "alt": "La Mariée — detail of the arrangement",
+          "position": 2
+        }
+      ],
+      "variants": [
+        {
+          "size": "classic",
+          "label": "Classic",
+          "stems": "9–11 premium stems",
+          "description": "A gathered hand-tied bouquet of the finest stems, wrapped in ivory paper and finished with twine — our signature atelier size.",
+          "priceCents": 14800,
+          "compareAtPriceCents": null,
+          "sku": "BF-WED-301-CLA",
+          "stockQty": 6,
+          "inStock": true
+        },
+        {
+          "size": "deluxe",
+          "label": "Deluxe",
+          "stems": "13–15 premium stems · garden wrap",
+          "description": "A fuller garden bouquet with premium blooms and added greenery, hand-tied, wrapped and finished with a champagne silk ribbon.",
+          "priceCents": 21800,
+          "compareAtPriceCents": null,
+          "sku": "BF-WED-301-DEL",
+          "stockQty": 4,
+          "inStock": true
+        },
+        {
+          "size": "grand",
+          "label": "Grand",
+          "stems": "17–19 premium stems · silk ribbon",
+          "description": "Our most generous presentation — an abundant statement bouquet, hand-carried in the studio vault and delivered white-glove.",
+          "priceCents": 29000,
+          "compareAtPriceCents": null,
+          "sku": "BF-WED-301-GRA",
+          "stockQty": 3,
+          "inStock": true
+        }
+      ]
+    },
+    {
+      "sku": "BF-WED-302",
+      "name": "Romance du Soir",
+      "slug": "romance-du-soir",
+      "collection": "wedding-romance",
+      "shortDescription": "Blush and peony-rose florals for proposals and candlelit anniversaries.",
+      "description": "Composed for the hour when the light goes amber: blush garden roses, peonies and a deep raspberry undertone, gathered loosely so the arrangement moves like a slow conversation. Romance du Soir is our most requested proposal bouquet.",
+      "basePriceCents": 13200,
+      "compareAtPriceCents": 15000,
+      "categoryTags": [
+        "Proposal",
+        "Anniversary",
+        "Romance"
+      ],
+      "colorPalette": [
+        {
+          "name": "Blush",
+          "hex": "#e4b7c0"
+        },
+        {
+          "name": "Peony rose",
+          "hex": "#d8a7ad"
+        },
+        {
+          "name": "Raspberry",
+          "hex": "#c22f56"
+        },
+        {
+          "name": "Ivory",
+          "hex": "#f6ead9"
+        }
+      ],
+      "flowerTypes": [
+        "Blush garden rose",
+        "Pink peony",
+        "Raspberry ranunculus",
+        "Matthiola"
+      ],
+      "dimensions": {
+        "width": 12,
+        "height": 18
+      },
+      "vaseIncluded": false,
+      "careInstructions": [
+        "Trim rose stems at a sharp 45° angle before arranging.",
+        "Roses drink best in lukewarm water; refresh every other day.",
+        "Keep away from fruit bowls — ethylene ages roses quickly.",
+        "Change the water every other day and stand the arrangement away from direct sun and heating vents."
+      ],
+      "featured": true,
+      "bestseller": true,
+      "newArrival": false,
+      "seoTitle": "Romance du Soir — Luxury Flower Delivery",
+      "seoDescription": "Blush and peony-rose florals for proposals and candlelit anniversaries. Available in Classic, Deluxe and Grand sizes with same-day delivery across the Arcadia metro.",
+      "images": [
+        {
+          "src": "art://blush/peony/romance-du-soir/full",
+          "alt": "Romance du Soir — arrangement",
+          "position": 0
+        },
+        {
+          "src": "art://blush/peony/romance-du-soir/arch",
+          "alt": "Romance du Soir — ateliier presentation",
+          "position": 1
+        },
+        {
+          "src": "art://blush/peony/romance-du-soir/detail",
+          "alt": "Romance du Soir — detail of the arrangement",
+          "position": 2
+        }
+      ],
+      "variants": [
+        {
+          "size": "classic",
+          "label": "Classic",
+          "stems": "9–11 stems",
+          "description": "A gathered hand-tied bouquet of the finest stems, wrapped in ivory paper and finished with twine — our signature atelier size.",
+          "priceCents": 13200,
+          "compareAtPriceCents": null,
+          "sku": "BF-WED-302-CLA",
+          "stockQty": 7,
+          "inStock": true
+        },
+        {
+          "size": "deluxe",
+          "label": "Deluxe",
+          "stems": "13–15 stems · garden wrap",
+          "description": "A fuller garden bouquet with premium blooms and added greenery, hand-tied, wrapped and finished with a champagne silk ribbon.",
+          "priceCents": 19800,
+          "compareAtPriceCents": null,
+          "sku": "BF-WED-302-DEL",
+          "stockQty": 4,
+          "inStock": true
+        },
+        {
+          "size": "grand",
+          "label": "Grand",
+          "stems": "17–19 stems · silk ribbon",
+          "description": "Our most generous presentation — an abundant statement bouquet, hand-carried in the studio vault and delivered white-glove.",
+          "priceCents": 26600,
+          "compareAtPriceCents": null,
+          "sku": "BF-WED-302-GRA",
+          "stockQty": 3,
+          "inStock": true
+        }
+      ]
+    },
+    {
+      "sku": "BF-WED-303",
+      "name": "Bouquet Blanc",
+      "slug": "bouquet-blanc",
+      "collection": "wedding-romance",
+      "shortDescription": "An all-white classic: roses, lisianthus, sweet pea and eucalyptus.",
+      "description": "Bouquet Blanc is the white-on-white arrangement that works for elopements, second weddings and vow renewals: white garden roses, lisianthus like porcelain bells, sweet pea that scents the room, and eucalyptus for the green shadows. Nothing about it shouts; everything about it is considered.",
+      "basePriceCents": 12000,
+      "compareAtPriceCents": null,
+      "categoryTags": [
+        "Wedding",
+        "White",
+        "Classic"
+      ],
+      "colorPalette": [
+        {
+          "name": "White",
+          "hex": "#ffffff"
+        },
+        {
+          "name": "Ivory",
+          "hex": "#f6ead9"
+        },
+        {
+          "name": "Cream",
+          "hex": "#efe4cf"
+        },
+        {
+          "name": "Eucalyptus",
+          "hex": "#9aa382"
+        }
+      ],
+      "flowerTypes": [
+        "White garden rose",
+        "Lisianthus",
+        "Sweet pea",
+        "Eucalyptus"
+      ],
+      "dimensions": {
+        "width": 12,
+        "height": 18
+      },
+      "vaseIncluded": false,
+      "careInstructions": [
+        "Trim rose stems at a sharp 45° angle before arranging.",
+        "Roses drink best in lukewarm water; refresh every other day.",
+        "Keep away from fruit bowls — ethylene ages roses quickly.",
+        "Change the water every other day and stand the arrangement away from direct sun and heating vents."
+      ],
+      "featured": false,
+      "bestseller": true,
+      "newArrival": false,
+      "seoTitle": "Bouquet Blanc — Luxury Flower Delivery",
+      "seoDescription": "An all-white classic: roses, lisianthus, sweet pea and eucalyptus. Available in Classic, Deluxe and Grand sizes with same-day delivery across the Arcadia metro.",
+      "images": [
+        {
+          "src": "art://porcelain/garden/bouquet-blanc/full",
+          "alt": "Bouquet Blanc — arrangement",
+          "position": 0
+        },
+        {
+          "src": "art://porcelain/garden/bouquet-blanc/arch",
+          "alt": "Bouquet Blanc — ateliier presentation",
+          "position": 1
+        },
+        {
+          "src": "art://porcelain/garden/bouquet-blanc/detail",
+          "alt": "Bouquet Blanc — detail of the arrangement",
+          "position": 2
+        }
+      ],
+      "variants": [
+        {
+          "size": "classic",
+          "label": "Classic",
+          "stems": "10–12 stems",
+          "description": "A gathered hand-tied bouquet of the finest stems, wrapped in ivory paper and finished with twine — our signature atelier size.",
+          "priceCents": 12000,
+          "compareAtPriceCents": null,
+          "sku": "BF-WED-303-CLA",
+          "stockQty": 8,
+          "inStock": true
+        },
+        {
+          "size": "deluxe",
+          "label": "Deluxe",
+          "stems": "14–16 stems · garden wrap",
+          "description": "A fuller garden bouquet with premium blooms and added greenery, hand-tied, wrapped and finished with a champagne silk ribbon.",
+          "priceCents": 18000,
+          "compareAtPriceCents": null,
+          "sku": "BF-WED-303-DEL",
+          "stockQty": 5,
+          "inStock": true
+        },
+        {
+          "size": "grand",
+          "label": "Grand",
+          "stems": "18–20 stems · silk ribbon",
+          "description": "Our most generous presentation — an abundant statement bouquet, hand-carried in the studio vault and delivered white-glove.",
+          "priceCents": 24000,
+          "compareAtPriceCents": null,
+          "sku": "BF-WED-303-GRA",
+          "stockQty": 3,
+          "inStock": true
+        }
+      ]
+    },
+    {
+      "sku": "BF-WED-304",
+      "name": "Propos de Paris",
+      "slug": "propos-de-paris",
+      "collection": "wedding-romance",
+      "shortDescription": "A Parisian proposal in red — deep roses, silk and nothing else.",
+      "description": "Propos de Paris is deliberately simple: forty or so red garden roses in one clear gesture, wrapped in silk and tied with a single ribbon. It is the arrangement for the proposal with a script, photographed as many times as said.",
+      "basePriceCents": 13800,
+      "compareAtPriceCents": null,
+      "categoryTags": [
+        "Proposal",
+        "Red roses",
+        "Statement"
+      ],
+      "colorPalette": [
+        {
+          "name": "Bordeaux",
+          "hex": "#701f33"
+        },
+        {
+          "name": "Crimson",
+          "hex": "#9c2440"
+        },
+        {
+          "name": "Deep red",
+          "hex": "#8a2a33"
+        },
+        {
+          "name": "Silk ivory",
+          "hex": "#f6ead9"
+        }
+      ],
+      "flowerTypes": [
+        "Bordeaux garden rose",
+        "Crimson spray rose",
+        "Leatherleaf fern"
+      ],
+      "dimensions": {
+        "width": 12,
+        "height": 19
+      },
+      "vaseIncluded": false,
+      "careInstructions": [
+        "Trim rose stems at a sharp 45° angle before arranging.",
+        "Roses drink best in lukewarm water; refresh every other day.",
+        "Keep away from fruit bowls — ethylene ages roses quickly.",
+        "Change the water every other day and stand the arrangement away from direct sun and heating vents."
+      ],
+      "featured": true,
+      "bestseller": false,
+      "newArrival": false,
+      "seoTitle": "Propos de Paris — Luxury Flower Delivery",
+      "seoDescription": "A Parisian proposal in red — deep roses, silk and nothing else. Available in Classic, Deluxe and Grand sizes with same-day delivery across the Arcadia metro.",
+      "images": [
+        {
+          "src": "art://burgundy/rose/propos-de-paris/full",
+          "alt": "Propos de Paris — arrangement",
+          "position": 0
+        },
+        {
+          "src": "art://burgundy/rose/propos-de-paris/arch",
+          "alt": "Propos de Paris — ateliier presentation",
+          "position": 1
+        },
+        {
+          "src": "art://burgundy/rose/propos-de-paris/detail",
+          "alt": "Propos de Paris — detail of the arrangement",
+          "position": 2
+        }
+      ],
+      "variants": [
+        {
+          "size": "classic",
+          "label": "Classic",
+          "stems": "10–12 stems",
+          "description": "A gathered hand-tied bouquet of the finest stems, wrapped in ivory paper and finished with twine — our signature atelier size.",
+          "priceCents": 13800,
+          "compareAtPriceCents": null,
+          "sku": "BF-WED-304-CLA",
+          "stockQty": 6,
+          "inStock": true
+        },
+        {
+          "size": "deluxe",
+          "label": "Deluxe",
+          "stems": "15–17 stems · premium bloom",
+          "description": "A fuller garden bouquet with premium blooms and added greenery, hand-tied, wrapped and finished with a champagne silk ribbon.",
+          "priceCents": 20600,
+          "compareAtPriceCents": null,
+          "sku": "BF-WED-304-DEL",
+          "stockQty": 4,
+          "inStock": true
+        },
+        {
+          "size": "grand",
+          "label": "Grand",
+          "stems": "20–24 stems · silk ribbon",
+          "description": "Our most generous presentation — an abundant statement bouquet, hand-carried in the studio vault and delivered white-glove.",
+          "priceCents": 27600,
+          "compareAtPriceCents": null,
+          "sku": "BF-WED-304-GRA",
+          "stockQty": 2,
+          "inStock": true
+        }
+      ]
+    },
+    {
+      "sku": "BF-WED-305",
+      "name": "Arche de Cérémonie",
+      "slug": "arche-de-ceremonie",
+      "collection": "wedding-romance",
+      "shortDescription": "A sculptural ceremony piece — garden roses, hydrangea and trailing greenery.",
+      "description": "Arche de Cérémonie is a ceremony statement: a wide, low bowl of white and champagne blooms with two tall arcs of greenery and garden roses, designed to frame a vow exchange or anchor a long dinner table. It arrives understated and becomes the room.",
+      "basePriceCents": 16200,
+      "compareAtPriceCents": null,
+      "categoryTags": [
+        "Ceremony",
+        "Installation",
+        "Statement"
+      ],
+      "colorPalette": [
+        {
+          "name": "White",
+          "hex": "#ffffff"
+        },
+        {
+          "name": "Champagne",
+          "hex": "#e6d8bd"
+        },
+        {
+          "name": "Sage",
+          "hex": "#9aa382"
+        },
+        {
+          "name": "Silver",
+          "hex": "#c9cede"
+        }
+      ],
+      "flowerTypes": [
+        "White garden rose",
+        "Hydrangea",
+        "Italian ruscus",
+        "Silver brunia"
+      ],
+      "dimensions": {
+        "width": 20,
+        "height": 24
+      },
+      "vaseIncluded": true,
+      "careInstructions": [
+        "Trim rose stems at a sharp 45° angle before arranging.",
+        "Roses drink best in lukewarm water; refresh every other day.",
+        "Keep away from fruit bowls — ethylene ages roses quickly.",
+        "Change the water every other day and stand the arrangement away from direct sun and heating vents."
+      ],
+      "featured": true,
+      "bestseller": false,
+      "newArrival": false,
+      "seoTitle": "Arche de Cérémonie — Luxury Flower Delivery",
+      "seoDescription": "A sculptural ceremony piece — garden roses, hydrangea and trailing greenery. Available in Classic, Deluxe and Grand sizes with same-day delivery across the Arcadia metro.",
+      "images": [
+        {
+          "src": "art://porcelain/hydrangea/arche-de-ceremonie/full",
+          "alt": "Arche de Cérémonie — arrangement",
+          "position": 0
+        },
+        {
+          "src": "art://porcelain/hydrangea/arche-de-ceremonie/arch",
+          "alt": "Arche de Cérémonie — ateliier presentation",
+          "position": 1
+        },
+        {
+          "src": "art://porcelain/hydrangea/arche-de-ceremonie/detail",
+          "alt": "Arche de Cérémonie — detail of the arrangement",
+          "position": 2
+        }
+      ],
+      "variants": [
+        {
+          "size": "classic",
+          "label": "Classic",
+          "stems": "14–16 premium stems",
+          "description": "A gathered hand-tied bouquet of the finest stems, wrapped in ivory paper and finished with twine — our signature atelier size.",
+          "priceCents": 16200,
+          "compareAtPriceCents": null,
+          "sku": "BF-WED-305-CLA",
+          "stockQty": 4,
+          "inStock": true
+        },
+        {
+          "size": "deluxe",
+          "label": "Deluxe",
+          "stems": "18–22 premium stems",
+          "description": "A fuller garden bouquet with premium blooms and added greenery, hand-tied, wrapped and finished with a champagne silk ribbon.",
+          "priceCents": 24200,
+          "compareAtPriceCents": null,
+          "sku": "BF-WED-305-DEL",
+          "stockQty": 2,
+          "inStock": true
+        },
+        {
+          "size": "grand",
+          "label": "Grand",
+          "stems": "24–30 premium stems · installation",
+          "description": "Our most generous presentation — an abundant statement bouquet, hand-carried in the studio vault and delivered white-glove.",
+          "priceCents": 32200,
+          "compareAtPriceCents": null,
+          "sku": "BF-WED-305-GRA",
+          "stockQty": 1,
+          "inStock": true
+        }
+      ]
+    },
+    {
+      "sku": "BF-WED-306",
+      "name": "Amour Éternel",
+      "slug": "amour-eternel",
+      "collection": "wedding-romance",
+      "shortDescription": "Burgundy and ivory, paired like a classic suit and tie.",
+      "description": "Amour Éternel works the house palette front to back: burgundy garden roses, ivory ranunculus, a collar of wine-dark foliage. It is the anniversary arrangement that says the marriage has matured well — for the table that has hosted thirty years of dinners.",
+      "basePriceCents": 14200,
+      "compareAtPriceCents": null,
+      "categoryTags": [
+        "Anniversary",
+        "Classic",
+        "Evening"
+      ],
+      "colorPalette": [
+        {
+          "name": "Burgundy",
+          "hex": "#5d2033"
+        },
+        {
+          "name": "Ivory",
+          "hex": "#f6ead9"
+        },
+        {
+          "name": "Wine",
+          "hex": "#7b2c43"
+        },
+        {
+          "name": "Greenery",
+          "hex": "#4f6b4a"
+        }
+      ],
+      "flowerTypes": [
+        "Burgundy garden rose",
+        "Ivory ranunculus",
+        "Waxflower",
+        "Ruscus"
+      ],
+      "dimensions": {
+        "width": 12,
+        "height": 18
+      },
+      "vaseIncluded": true,
+      "careInstructions": [
+        "Trim rose stems at a sharp 45° angle before arranging.",
+        "Roses drink best in lukewarm water; refresh every other day.",
+        "Keep away from fruit bowls — ethylene ages roses quickly.",
+        "Change the water every other day and stand the arrangement away from direct sun and heating vents."
+      ],
+      "featured": true,
+      "bestseller": false,
+      "newArrival": false,
+      "seoTitle": "Amour Éternel — Luxury Flower Delivery",
+      "seoDescription": "Burgundy and ivory, paired like a classic suit and tie. Available in Classic, Deluxe and Grand sizes with same-day delivery across the Arcadia metro.",
+      "images": [
+        {
+          "src": "art://burgundy/rose/amour-eternel/full",
+          "alt": "Amour Éternel — arrangement",
+          "position": 0
+        },
+        {
+          "src": "art://burgundy/rose/amour-eternel/arch",
+          "alt": "Amour Éternel — ateliier presentation",
+          "position": 1
+        },
+        {
+          "src": "art://burgundy/rose/amour-eternel/detail",
+          "alt": "Amour Éternel — detail of the arrangement",
+          "position": 2
+        }
+      ],
+      "variants": [
+        {
+          "size": "classic",
+          "label": "Classic",
+          "stems": "10–12 stems",
+          "description": "A gathered hand-tied bouquet of the finest stems, wrapped in ivory paper and finished with twine — our signature atelier size.",
+          "priceCents": 14200,
+          "compareAtPriceCents": null,
+          "sku": "BF-WED-306-CLA",
+          "stockQty": 0,
+          "inStock": false
+        },
+        {
+          "size": "deluxe",
+          "label": "Deluxe",
+          "stems": "14–16 stems · premium bloom",
+          "description": "A fuller garden bouquet with premium blooms and added greenery, hand-tied, wrapped and finished with a champagne silk ribbon.",
+          "priceCents": 21200,
+          "compareAtPriceCents": null,
+          "sku": "BF-WED-306-DEL",
+          "stockQty": 0,
+          "inStock": false
+        },
+        {
+          "size": "grand",
+          "label": "Grand",
+          "stems": "18–20 stems · silk ribbon",
+          "description": "Our most generous presentation — an abundant statement bouquet, hand-carried in the studio vault and delivered white-glove.",
+          "priceCents": 28400,
+          "compareAtPriceCents": null,
+          "sku": "BF-WED-306-GRA",
+          "stockQty": 0,
+          "inStock": false
+        }
+      ]
+    },
+    {
+      "sku": "BF-SYM-401",
+      "name": "Douce Mémoire",
+      "slug": "douce-memoire",
+      "collection": "sympathy-remembrance",
+      "shortDescription": "White lilies and cream roses — the classic sympathy arrangement, composed gently.",
+      "description": "Douce Mémoire is our most requested sympathy piece: white lilies with their scent held (we remove the stamens), cream roses and a collar of soft green. It is composed quietly, delivered plainly, and meant to stay beautiful for the days a family needs.",
+      "basePriceCents": 9800,
+      "compareAtPriceCents": null,
+      "categoryTags": [
+        "Sympathy",
+        "White",
+        "Classic"
+      ],
+      "colorPalette": [
+        {
+          "name": "White",
+          "hex": "#ffffff"
+        },
+        {
+          "name": "Ivory",
+          "hex": "#f6ead9"
+        },
+        {
+          "name": "Cream",
+          "hex": "#efe4cf"
+        },
+        {
+          "name": "Soft green",
+          "hex": "#a7b294"
+        }
+      ],
+      "flowerTypes": [
+        "White oriental lily",
+        "Cream garden rose",
+        "Lisianthus",
+        "Bear grass"
+      ],
+      "dimensions": {
+        "width": 13,
+        "height": 18
+      },
+      "vaseIncluded": true,
+      "careInstructions": [
+        "Remove stamens as they mature to keep pollen off tablecloths.",
+        "Lilies last longest in a cool spot, away from direct sun.",
+        "Trim rose stems at a sharp 45° angle before arranging.",
+        "Change the water every other day and stand the arrangement away from direct sun and heating vents."
+      ],
+      "featured": true,
+      "bestseller": true,
+      "newArrival": false,
+      "seoTitle": "Douce Mémoire — Luxury Flower Delivery",
+      "seoDescription": "White lilies and cream roses — the classic sympathy arrangement, composed gently. Available in Classic, Deluxe and Grand sizes with same-day delivery across the Arcadia metro.",
+      "images": [
+        {
+          "src": "art://porcelain/lily/douce-memoire/full",
+          "alt": "Douce Mémoire — arrangement",
+          "position": 0
+        },
+        {
+          "src": "art://porcelain/lily/douce-memoire/arch",
+          "alt": "Douce Mémoire — ateliier presentation",
+          "position": 1
+        },
+        {
+          "src": "art://porcelain/lily/douce-memoire/detail",
+          "alt": "Douce Mémoire — detail of the arrangement",
+          "position": 2
+        }
+      ],
+      "variants": [
+        {
+          "size": "classic",
+          "label": "Classic",
+          "stems": "8–10 stems",
+          "description": "A gathered hand-tied bouquet of the finest stems, wrapped in ivory paper and finished with twine — our signature atelier size.",
+          "priceCents": 9800,
+          "compareAtPriceCents": null,
+          "sku": "BF-SYM-401-CLA",
+          "stockQty": 10,
+          "inStock": true
+        },
+        {
+          "size": "deluxe",
+          "label": "Deluxe",
+          "stems": "12–14 stems · premium bloom",
+          "description": "A fuller garden bouquet with premium blooms and added greenery, hand-tied, wrapped and finished with a champagne silk ribbon.",
+          "priceCents": 14600,
+          "compareAtPriceCents": null,
+          "sku": "BF-SYM-401-DEL",
+          "stockQty": 7,
+          "inStock": true
+        },
+        {
+          "size": "grand",
+          "label": "Grand",
+          "stems": "16–18 stems · silk ribbon",
+          "description": "Our most generous presentation — an abundant statement bouquet, hand-carried in the studio vault and delivered white-glove.",
+          "priceCents": 19600,
+          "compareAtPriceCents": null,
+          "sku": "BF-SYM-401-GRA",
+          "stockQty": 4,
+          "inStock": true
+        }
+      ]
+    },
+    {
+      "sku": "BF-SYM-402",
+      "name": "Grâce Douce",
+      "slug": "grace-douce",
+      "collection": "sympathy-remembrance",
+      "shortDescription": "Soft pastels — blush roses, white ranunculus and lavender.",
+      "description": "Grâce Douce softens the sympathy palette into pastel: blush garden roses, white ranunculus and a whisper of lavender, gathered as loose as a held hand. For the person whose grief is quiet, and the room that should feel gentle.",
+      "basePriceCents": 8600,
+      "compareAtPriceCents": null,
+      "categoryTags": [
+        "Sympathy",
+        "Pastel",
+        "Gentle"
+      ],
+      "colorPalette": [
+        {
+          "name": "Blush",
+          "hex": "#e4b7c0"
+        },
+        {
+          "name": "White",
+          "hex": "#ffffff"
+        },
+        {
+          "name": "Lavender",
+          "hex": "#b5a7c9"
+        },
+        {
+          "name": "Sage",
+          "hex": "#9aa382"
+        }
+      ],
+      "flowerTypes": [
+        "Blush garden rose",
+        "White ranunculus",
+        "Lavender",
+        "Silver brunia"
+      ],
+      "dimensions": {
+        "width": 11,
+        "height": 18
+      },
+      "vaseIncluded": true,
+      "careInstructions": [
+        "Trim rose stems at a sharp 45° angle before arranging.",
+        "Roses drink best in lukewarm water; refresh every other day.",
+        "Keep away from fruit bowls — ethylene ages roses quickly.",
+        "Change the water every other day and stand the arrangement away from direct sun and heating vents."
+      ],
+      "featured": false,
+      "bestseller": false,
+      "newArrival": false,
+      "seoTitle": "Grâce Douce — Luxury Flower Delivery",
+      "seoDescription": "Soft pastels — blush roses, white ranunculus and lavender. Available in Classic, Deluxe and Grand sizes with same-day delivery across the Arcadia metro.",
+      "images": [
+        {
+          "src": "art://lavender/ranunculus/grace-douce/full",
+          "alt": "Grâce Douce — arrangement",
+          "position": 0
+        },
+        {
+          "src": "art://lavender/ranunculus/grace-douce/arch",
+          "alt": "Grâce Douce — ateliier presentation",
+          "position": 1
+        },
+        {
+          "src": "art://lavender/ranunculus/grace-douce/detail",
+          "alt": "Grâce Douce — detail of the arrangement",
+          "position": 2
+        }
+      ],
+      "variants": [
+        {
+          "size": "classic",
+          "label": "Classic",
+          "stems": "8–10 stems",
+          "description": "A gathered hand-tied bouquet of the finest stems, wrapped in ivory paper and finished with twine — our signature atelier size.",
+          "priceCents": 8600,
+          "compareAtPriceCents": null,
+          "sku": "BF-SYM-402-CLA",
+          "stockQty": 11,
+          "inStock": true
+        },
+        {
+          "size": "deluxe",
+          "label": "Deluxe",
+          "stems": "12–14 stems · premium bloom",
+          "description": "A fuller garden bouquet with premium blooms and added greenery, hand-tied, wrapped and finished with a champagne silk ribbon.",
+          "priceCents": 12800,
+          "compareAtPriceCents": null,
+          "sku": "BF-SYM-402-DEL",
+          "stockQty": 7,
+          "inStock": true
+        },
+        {
+          "size": "grand",
+          "label": "Grand",
+          "stems": "16–18 stems · silk ribbon",
+          "description": "Our most generous presentation — an abundant statement bouquet, hand-carried in the studio vault and delivered white-glove.",
+          "priceCents": 17200,
+          "compareAtPriceCents": null,
+          "sku": "BF-SYM-402-GRA",
+          "stockQty": 4,
+          "inStock": true
+        }
+      ]
+    },
+    {
+      "sku": "BF-SYM-403",
+      "name": "Prière Silencieuse",
+      "slug": "priere-silencieuse",
+      "collection": "sympathy-remembrance",
+      "shortDescription": "A single clear gesture: white roses and white hydrangea in quiet proportion.",
+      "description": "Prière Silencieuse — “silent prayer” — is the most restrained piece we make: white roses opening over a mound of white hydrangea, nothing else. It holds the room’s attention the way a held silence does, and asks for nothing in return.",
+      "basePriceCents": 8000,
+      "compareAtPriceCents": null,
+      "categoryTags": [
+        "Sympathy",
+        "White",
+        "Minimal"
+      ],
+      "colorPalette": [
+        {
+          "name": "White",
+          "hex": "#ffffff"
+        },
+        {
+          "name": "Ivory",
+          "hex": "#f6ead9"
+        },
+        {
+          "name": "Silver",
+          "hex": "#e2e4ea"
+        },
+        {
+          "name": "Green",
+          "hex": "#a7b294"
+        }
+      ],
+      "flowerTypes": [
+        "White garden rose",
+        "White hydrangea",
+        "Ferns"
+      ],
+      "dimensions": {
+        "width": 13,
+        "height": 15
+      },
+      "vaseIncluded": true,
+      "careInstructions": [
+        "Trim rose stems at a sharp 45° angle before arranging.",
+        "Roses drink best in lukewarm water; refresh every other day.",
+        "Keep away from fruit bowls — ethylene ages roses quickly.",
+        "Change the water every other day and stand the arrangement away from direct sun and heating vents."
+      ],
+      "featured": false,
+      "bestseller": false,
+      "newArrival": false,
+      "seoTitle": "Prière Silencieuse — Luxury Flower Delivery",
+      "seoDescription": "A single clear gesture: white roses and white hydrangea in quiet proportion. Available in Classic, Deluxe and Grand sizes with same-day delivery across the Arcadia metro.",
+      "images": [
+        {
+          "src": "art://porcelain/hydrangea/priere-silencieuse/full",
+          "alt": "Prière Silencieuse — arrangement",
+          "position": 0
+        },
+        {
+          "src": "art://porcelain/hydrangea/priere-silencieuse/arch",
+          "alt": "Prière Silencieuse — ateliier presentation",
+          "position": 1
+        },
+        {
+          "src": "art://porcelain/hydrangea/priere-silencieuse/detail",
+          "alt": "Prière Silencieuse — detail of the arrangement",
+          "position": 2
+        }
+      ],
+      "variants": [
+        {
+          "size": "classic",
+          "label": "Classic",
+          "stems": "7–9 stems",
+          "description": "A gathered hand-tied bouquet of the finest stems, wrapped in ivory paper and finished with twine — our signature atelier size.",
+          "priceCents": 8000,
+          "compareAtPriceCents": null,
+          "sku": "BF-SYM-403-CLA",
+          "stockQty": 12,
+          "inStock": true
+        },
+        {
+          "size": "deluxe",
+          "label": "Deluxe",
+          "stems": "10–12 stems · premium bloom",
+          "description": "A fuller garden bouquet with premium blooms and added greenery, hand-tied, wrapped and finished with a champagne silk ribbon.",
+          "priceCents": 11800,
+          "compareAtPriceCents": null,
+          "sku": "BF-SYM-403-DEL",
+          "stockQty": 8,
+          "inStock": true
+        },
+        {
+          "size": "grand",
+          "label": "Grand",
+          "stems": "14–16 stems · silk ribbon",
+          "description": "Our most generous presentation — an abundant statement bouquet, hand-carried in the studio vault and delivered white-glove.",
+          "priceCents": 16000,
+          "compareAtPriceCents": null,
+          "sku": "BF-SYM-403-GRA",
+          "stockQty": 5,
+          "inStock": true
+        }
+      ]
+    },
+    {
+      "sku": "BF-SYM-404",
+      "name": "Paix Éternelle",
+      "slug": "paix-eternelle",
+      "collection": "sympathy-remembrance",
+      "shortDescription": "Ivory blooms resting in a frame of eucalyptus and olive greenery.",
+      "description": "Paix Éternelle surrounds ivory roses and peonies with the long lines of eucalyptus and olive — greenery that speaks of continuation. It is the piece we make when a family asks for something less traditional but equally serene.",
+      "basePriceCents": 9000,
+      "compareAtPriceCents": null,
+      "categoryTags": [
+        "Sympathy",
+        "Greenery",
+        "Serene"
+      ],
+      "colorPalette": [
+        {
+          "name": "Ivory",
+          "hex": "#f6ead9"
+        },
+        {
+          "name": "Olive",
+          "hex": "#8a946b"
+        },
+        {
+          "name": "Eucalyptus",
+          "hex": "#9aa382"
+        },
+        {
+          "name": "Cream",
+          "hex": "#efe4cf"
+        }
+      ],
+      "flowerTypes": [
+        "Ivory garden rose",
+        "Ivory peony",
+        "Eucalyptus",
+        "Olive foliage"
+      ],
+      "dimensions": {
+        "width": 12,
+        "height": 19
+      },
+      "vaseIncluded": true,
+      "careInstructions": [
+        "Trim rose stems at a sharp 45° angle before arranging.",
+        "Roses drink best in lukewarm water; refresh every other day.",
+        "Keep away from fruit bowls — ethylene ages roses quickly.",
+        "Change the water every other day and stand the arrangement away from direct sun and heating vents."
+      ],
+      "featured": false,
+      "bestseller": false,
+      "newArrival": false,
+      "seoTitle": "Paix Éternelle — Luxury Flower Delivery",
+      "seoDescription": "Ivory blooms resting in a frame of eucalyptus and olive greenery. Available in Classic, Deluxe and Grand sizes with same-day delivery across the Arcadia metro.",
+      "images": [
+        {
+          "src": "art://garden/garden/paix-eternelle/full",
+          "alt": "Paix Éternelle — arrangement",
+          "position": 0
+        },
+        {
+          "src": "art://garden/garden/paix-eternelle/arch",
+          "alt": "Paix Éternelle — ateliier presentation",
+          "position": 1
+        },
+        {
+          "src": "art://garden/garden/paix-eternelle/detail",
+          "alt": "Paix Éternelle — detail of the arrangement",
+          "position": 2
+        }
+      ],
+      "variants": [
+        {
+          "size": "classic",
+          "label": "Classic",
+          "stems": "9–11 stems",
+          "description": "A gathered hand-tied bouquet of the finest stems, wrapped in ivory paper and finished with twine — our signature atelier size.",
+          "priceCents": 9000,
+          "compareAtPriceCents": null,
+          "sku": "BF-SYM-404-CLA",
+          "stockQty": 9,
+          "inStock": true
+        },
+        {
+          "size": "deluxe",
+          "label": "Deluxe",
+          "stems": "13–15 stems · premium bloom",
+          "description": "A fuller garden bouquet with premium blooms and added greenery, hand-tied, wrapped and finished with a champagne silk ribbon.",
+          "priceCents": 13400,
+          "compareAtPriceCents": null,
+          "sku": "BF-SYM-404-DEL",
+          "stockQty": 6,
+          "inStock": true
+        },
+        {
+          "size": "grand",
+          "label": "Grand",
+          "stems": "17–19 stems · silk ribbon",
+          "description": "Our most generous presentation — an abundant statement bouquet, hand-carried in the studio vault and delivered white-glove.",
+          "priceCents": 18000,
+          "compareAtPriceCents": null,
+          "sku": "BF-SYM-404-GRA",
+          "stockQty": 3,
+          "inStock": true
+        }
+      ]
+    },
+    {
+      "sku": "BF-SYM-405",
+      "name": "Réconfort",
+      "slug": "reconfort",
+      "collection": "sympathy-remembrance",
+      "shortDescription": "Pale pink roses and white lisianthus — comfort in the smallest scale.",
+      "description": "Réconfort is made to be the smallest possible gesture with the fullest possible meaning: pale pink garden roses, white lisianthus and a breath of lavender at the collar. It travels in a plain box that we ask you to open privately, because the first look should be yours.",
+      "basePriceCents": 8400,
+      "compareAtPriceCents": null,
+      "categoryTags": [
+        "Sympathy",
+        "Pink",
+        "Small"
+      ],
+      "colorPalette": [
+        {
+          "name": "Pale pink",
+          "hex": "#eed6da"
+        },
+        {
+          "name": "White",
+          "hex": "#ffffff"
+        },
+        {
+          "name": "Lavender",
+          "hex": "#c3b6d4"
+        },
+        {
+          "name": "Sage",
+          "hex": "#9aa382"
+        }
+      ],
+      "flowerTypes": [
+        "Pale pink garden rose",
+        "White lisianthus",
+        "Lavender",
+        "Heather"
+      ],
+      "dimensions": {
+        "width": 11,
+        "height": 15
+      },
+      "vaseIncluded": true,
+      "careInstructions": [
+        "Trim rose stems at a sharp 45° angle before arranging.",
+        "Roses drink best in lukewarm water; refresh every other day.",
+        "Keep away from fruit bowls — ethylene ages roses quickly.",
+        "Change the water every other day and stand the arrangement away from direct sun and heating vents."
+      ],
+      "featured": false,
+      "bestseller": false,
+      "newArrival": false,
+      "seoTitle": "Réconfort — Luxury Flower Delivery",
+      "seoDescription": "Pale pink roses and white lisianthus — comfort in the smallest scale. Available in Classic, Deluxe and Grand sizes with same-day delivery across the Arcadia metro.",
+      "images": [
+        {
+          "src": "art://blush/garden/reconfort/full",
+          "alt": "Réconfort — arrangement",
+          "position": 0
+        },
+        {
+          "src": "art://blush/garden/reconfort/arch",
+          "alt": "Réconfort — ateliier presentation",
+          "position": 1
+        },
+        {
+          "src": "art://blush/garden/reconfort/detail",
+          "alt": "Réconfort — detail of the arrangement",
+          "position": 2
+        }
+      ],
+      "variants": [
+        {
+          "size": "classic",
+          "label": "Classic",
+          "stems": "8–10 stems",
+          "description": "A gathered hand-tied bouquet of the finest stems, wrapped in ivory paper and finished with twine — our signature atelier size.",
+          "priceCents": 8400,
+          "compareAtPriceCents": null,
+          "sku": "BF-SYM-405-CLA",
+          "stockQty": 11,
+          "inStock": true
+        },
+        {
+          "size": "deluxe",
+          "label": "Deluxe",
+          "stems": "12–14 stems · premium bloom",
+          "description": "A fuller garden bouquet with premium blooms and added greenery, hand-tied, wrapped and finished with a champagne silk ribbon.",
+          "priceCents": 12600,
+          "compareAtPriceCents": null,
+          "sku": "BF-SYM-405-DEL",
+          "stockQty": 7,
+          "inStock": true
+        },
+        {
+          "size": "grand",
+          "label": "Grand",
+          "stems": "16–18 stems · silk ribbon",
+          "description": "Our most generous presentation — an abundant statement bouquet, hand-carried in the studio vault and delivered white-glove.",
+          "priceCents": 17000,
+          "compareAtPriceCents": null,
+          "sku": "BF-SYM-405-GRA",
+          "stockQty": 4,
+          "inStock": true
+        }
+      ]
+    },
+    {
+      "sku": "BF-SYM-406",
+      "name": "Jardin du Souvenir",
+      "slug": "jardin-du-souvenir",
+      "collection": "sympathy-remembrance",
+      "shortDescription": "A gathered garden of whites and greens, like a remembered morning walk.",
+      "description": "Jardin du Souvenir gathers everything a memory garden should hold: white roses, daisies, chamomile-like feverfew, berries and a generous run of greenery. It is for the person who lived in their garden, and for the family who will gather beside it.",
+      "basePriceCents": 9400,
+      "compareAtPriceCents": null,
+      "categoryTags": [
+        "Sympathy",
+        "Garden",
+        "Remembrance"
+      ],
+      "colorPalette": [
+        {
+          "name": "White",
+          "hex": "#ffffff"
+        },
+        {
+          "name": "Garden green",
+          "hex": "#7c8b63"
+        },
+        {
+          "name": "Cream",
+          "hex": "#efe4cf"
+        },
+        {
+          "name": "Berry",
+          "hex": "#8a3b52"
+        }
+      ],
+      "flowerTypes": [
+        "White rose",
+        "Feverfew",
+        "Salal berry",
+        "Ruscus",
+        "Daisy"
+      ],
+      "dimensions": {
+        "width": 11,
+        "height": 18
+      },
+      "vaseIncluded": false,
+      "careInstructions": [
+        "Trim rose stems at a sharp 45° angle before arranging.",
+        "Roses drink best in lukewarm water; refresh every other day.",
+        "Keep away from fruit bowls — ethylene ages roses quickly.",
+        "Change the water every other day and stand the arrangement away from direct sun and heating vents."
+      ],
+      "featured": false,
+      "bestseller": false,
+      "newArrival": true,
+      "seoTitle": "Jardin du Souvenir — Luxury Flower Delivery",
+      "seoDescription": "A gathered garden of whites and greens, like a remembered morning walk. Available in Classic, Deluxe and Grand sizes with same-day delivery across the Arcadia metro.",
+      "images": [
+        {
+          "src": "art://garden/mixed/jardin-du-souvenir/full",
+          "alt": "Jardin du Souvenir — arrangement",
+          "position": 0
+        },
+        {
+          "src": "art://garden/mixed/jardin-du-souvenir/arch",
+          "alt": "Jardin du Souvenir — ateliier presentation",
+          "position": 1
+        },
+        {
+          "src": "art://garden/mixed/jardin-du-souvenir/detail",
+          "alt": "Jardin du Souvenir — detail of the arrangement",
+          "position": 2
+        }
+      ],
+      "variants": [
+        {
+          "size": "classic",
+          "label": "Classic",
+          "stems": "12–14 stems",
+          "description": "A gathered hand-tied bouquet of the finest stems, wrapped in ivory paper and finished with twine — our signature atelier size.",
+          "priceCents": 9400,
+          "compareAtPriceCents": null,
+          "sku": "BF-SYM-406-CLA",
+          "stockQty": 10,
+          "inStock": true
+        },
+        {
+          "size": "deluxe",
+          "label": "Deluxe",
+          "stems": "16–18 stems · garden wrap",
+          "description": "A fuller garden bouquet with premium blooms and added greenery, hand-tied, wrapped and finished with a champagne silk ribbon.",
+          "priceCents": 14000,
+          "compareAtPriceCents": null,
+          "sku": "BF-SYM-406-DEL",
+          "stockQty": 6,
+          "inStock": true
+        },
+        {
+          "size": "grand",
+          "label": "Grand",
+          "stems": "20–24 stems · silk ribbon",
+          "description": "Our most generous presentation — an abundant statement bouquet, hand-carried in the studio vault and delivered white-glove.",
+          "priceCents": 18800,
+          "compareAtPriceCents": null,
+          "sku": "BF-SYM-406-GRA",
+          "stockQty": 4,
+          "inStock": true
+        }
+      ]
+    },
+    {
+      "sku": "BF-SEA-501",
+      "name": "Automne Doré",
+      "slug": "automne-dore",
+      "collection": "seasonal-blooms",
+      "shortDescription": "Amaryllis, dahlias and gold foliage for the season of long shadows.",
+      "description": "Automne Doré is October in a vessel: papery amaryllis, golden dahlia heads, oak leaves that hold their copper colour, and small ornamental gourds on wire. It is the centrepiece we refuse to photograph in studio light — it belongs in late-afternoon sun.",
+      "basePriceCents": 7200,
+      "compareAtPriceCents": 8400,
+      "categoryTags": [
+        "Autumn",
+        "Table",
+        "Warm"
+      ],
+      "colorPalette": [
+        {
+          "name": "Copper",
+          "hex": "#b4572f"
+        },
+        {
+          "name": "Gold",
+          "hex": "#e0b07a"
+        },
+        {
+          "name": "Amber",
+          "hex": "#c98f4a"
+        },
+        {
+          "name": "Oak",
+          "hex": "#8f3e2a"
+        }
+      ],
+      "flowerTypes": [
+        "Amaryllis",
+        "Golden dahlia",
+        "Oak foliage",
+        "Ornamental gourd"
+      ],
+      "dimensions": {
+        "width": 13,
+        "height": 16
+      },
+      "vaseIncluded": true,
+      "careInstructions": [
+        "Dahlias prefer cool water and a low-sugar vase life. Re-cut daily to keep the heads upright.",
+        "Change the water every other day and stand the arrangement away from direct sun and heating vents."
+      ],
+      "featured": true,
+      "bestseller": false,
+      "newArrival": true,
+      "seoTitle": "Automne Doré — Luxury Flower Delivery",
+      "seoDescription": "Amaryllis, dahlias and gold foliage for the season of long shadows. Available in Classic, Deluxe and Grand sizes with same-day delivery across the Arcadia metro.",
+      "images": [
+        {
+          "src": "art://autumn/dahlia/automne-dore/full",
+          "alt": "Automne Doré — arrangement",
+          "position": 0
+        },
+        {
+          "src": "art://autumn/dahlia/automne-dore/arch",
+          "alt": "Automne Doré — ateliier presentation",
+          "position": 1
+        },
+        {
+          "src": "art://autumn/dahlia/automne-dore/detail",
+          "alt": "Automne Doré — detail of the arrangement",
+          "position": 2
+        }
+      ],
+      "variants": [
+        {
+          "size": "classic",
+          "label": "Classic",
+          "stems": "8–10 stems",
+          "description": "A gathered hand-tied bouquet of the finest stems, wrapped in ivory paper and finished with twine — our signature atelier size.",
+          "priceCents": 7200,
+          "compareAtPriceCents": null,
+          "sku": "BF-SEA-501-CLA",
+          "stockQty": 12,
+          "inStock": true
+        },
+        {
+          "size": "deluxe",
+          "label": "Deluxe",
+          "stems": "12–14 stems · premium bloom",
+          "description": "A fuller garden bouquet with premium blooms and added greenery, hand-tied, wrapped and finished with a champagne silk ribbon.",
+          "priceCents": 10800,
+          "compareAtPriceCents": null,
+          "sku": "BF-SEA-501-DEL",
+          "stockQty": 8,
+          "inStock": true
+        },
+        {
+          "size": "grand",
+          "label": "Grand",
+          "stems": "16–18 stems · silk ribbon",
+          "description": "Our most generous presentation — an abundant statement bouquet, hand-carried in the studio vault and delivered white-glove.",
+          "priceCents": 14600,
+          "compareAtPriceCents": null,
+          "sku": "BF-SEA-501-GRA",
+          "stockQty": 5,
+          "inStock": true
+        }
+      ]
+    },
+    {
+      "sku": "BF-SEA-502",
+      "name": "Hiver Blanc",
+      "slug": "hiver-blanc",
+      "collection": "seasonal-blooms",
+      "shortDescription": "Winter white anemones, paperwhites and a brush of frost-blue berries.",
+      "description": "Hiver Blanc is the bouquet of windows in December: white anemones with ink-dark centres, paperwhite narcissus, and frost-blue berries that look dipped in snow. Cool, crisp and quietly festive — mistletoe not required.",
+      "basePriceCents": 8800,
+      "compareAtPriceCents": null,
+      "categoryTags": [
+        "Winter",
+        "Holiday",
+        "White"
+      ],
+      "colorPalette": [
+        {
+          "name": "White",
+          "hex": "#ffffff"
+        },
+        {
+          "name": "Frost blue",
+          "hex": "#c9cede"
+        },
+        {
+          "name": "Ink",
+          "hex": "#2d2730"
+        },
+        {
+          "name": "Silver",
+          "hex": "#e2e4ea"
+        }
+      ],
+      "flowerTypes": [
+        "White anemone",
+        "Paperwhite",
+        "Frost berry",
+        "Spruce tip"
+      ],
+      "dimensions": {
+        "width": 11,
+        "height": 17
+      },
+      "vaseIncluded": true,
+      "careInstructions": [
+        "Change the water every other day and stand the arrangement away from direct sun and heating vents."
+      ],
+      "featured": false,
+      "bestseller": false,
+      "newArrival": true,
+      "seoTitle": "Hiver Blanc — Luxury Flower Delivery",
+      "seoDescription": "Winter white anemones, paperwhites and a brush of frost-blue berries. Available in Classic, Deluxe and Grand sizes with same-day delivery across the Arcadia metro.",
+      "images": [
+        {
+          "src": "art://porcelain/ranunculus/hiver-blanc/full",
+          "alt": "Hiver Blanc — arrangement",
+          "position": 0
+        },
+        {
+          "src": "art://porcelain/ranunculus/hiver-blanc/arch",
+          "alt": "Hiver Blanc — ateliier presentation",
+          "position": 1
+        },
+        {
+          "src": "art://porcelain/ranunculus/hiver-blanc/detail",
+          "alt": "Hiver Blanc — detail of the arrangement",
+          "position": 2
+        }
+      ],
+      "variants": [
+        {
+          "size": "classic",
+          "label": "Classic",
+          "stems": "9–11 stems",
+          "description": "A gathered hand-tied bouquet of the finest stems, wrapped in ivory paper and finished with twine — our signature atelier size.",
+          "priceCents": 8800,
+          "compareAtPriceCents": null,
+          "sku": "BF-SEA-502-CLA",
+          "stockQty": 10,
+          "inStock": true
+        },
+        {
+          "size": "deluxe",
+          "label": "Deluxe",
+          "stems": "13–15 stems · premium bloom",
+          "description": "A fuller garden bouquet with premium blooms and added greenery, hand-tied, wrapped and finished with a champagne silk ribbon.",
+          "priceCents": 13200,
+          "compareAtPriceCents": null,
+          "sku": "BF-SEA-502-DEL",
+          "stockQty": 6,
+          "inStock": true
+        },
+        {
+          "size": "grand",
+          "label": "Grand",
+          "stems": "17–19 stems · silk ribbon",
+          "description": "Our most generous presentation — an abundant statement bouquet, hand-carried in the studio vault and delivered white-glove.",
+          "priceCents": 17800,
+          "compareAtPriceCents": null,
+          "sku": "BF-SEA-502-GRA",
+          "stockQty": 4,
+          "inStock": true
+        }
+      ]
+    },
+    {
+      "sku": "BF-SEA-503",
+      "name": "Printemps",
+      "slug": "printemps",
+      "collection": "seasonal-blooms",
+      "shortDescription": "Spring’s first pastels — ranunculus, hyacinth and muscari in bloom.",
+      "description": "Printemps arrives the week the growers call us about the first ranunculus: candy-coloured heads, blue muscari like tiny bells, and hyacinth that perfumes a hallway. It is our shortest-season collection and the one people write us about most.",
+      "basePriceCents": 6800,
+      "compareAtPriceCents": null,
+      "categoryTags": [
+        "Spring",
+        "Pastel",
+        "Fresh"
+      ],
+      "colorPalette": [
+        {
+          "name": "Candy pink",
+          "hex": "#e8a9b8"
+        },
+        {
+          "name": "Muscari blue",
+          "hex": "#7a88c8"
+        },
+        {
+          "name": "Butter",
+          "hex": "#e8c95a"
+        },
+        {
+          "name": "White",
+          "hex": "#ffffff"
+        }
+      ],
+      "flowerTypes": [
+        "Ranunculus",
+        "Hyacinth",
+        "Muscari",
+        "Tulip"
+      ],
+      "dimensions": {
+        "width": 11,
+        "height": 18
+      },
+      "vaseIncluded": false,
+      "careInstructions": [
+        "Ranunculus stems are hollow — cut low and water them early in the day.",
+        "Cut tulip stems straight (not on an angle) — they keep growing after cutting.",
+        "Keep water level high; tulips drink noticeably overnight.",
+        "Change the water every other day and stand the arrangement away from direct sun and heating vents."
+      ],
+      "featured": false,
+      "bestseller": false,
+      "newArrival": false,
+      "seoTitle": "Printemps — Luxury Flower Delivery",
+      "seoDescription": "Spring’s first pastels — ranunculus, hyacinth and muscari in bloom. Available in Classic, Deluxe and Grand sizes with same-day delivery across the Arcadia metro.",
+      "images": [
+        {
+          "src": "art://lavender/ranunculus/printemps/full",
+          "alt": "Printemps — arrangement",
+          "position": 0
+        },
+        {
+          "src": "art://lavender/ranunculus/printemps/arch",
+          "alt": "Printemps — ateliier presentation",
+          "position": 1
+        },
+        {
+          "src": "art://lavender/ranunculus/printemps/detail",
+          "alt": "Printemps — detail of the arrangement",
+          "position": 2
+        }
+      ],
+      "variants": [
+        {
+          "size": "classic",
+          "label": "Classic",
+          "stems": "10–12 stems",
+          "description": "A gathered hand-tied bouquet of the finest stems, wrapped in ivory paper and finished with twine — our signature atelier size.",
+          "priceCents": 6800,
+          "compareAtPriceCents": null,
+          "sku": "BF-SEA-503-CLA",
+          "stockQty": 15,
+          "inStock": true
+        },
+        {
+          "size": "deluxe",
+          "label": "Deluxe",
+          "stems": "14–16 stems · premium bloom",
+          "description": "A fuller garden bouquet with premium blooms and added greenery, hand-tied, wrapped and finished with a champagne silk ribbon.",
+          "priceCents": 10200,
+          "compareAtPriceCents": null,
+          "sku": "BF-SEA-503-DEL",
+          "stockQty": 9,
+          "inStock": true
+        },
+        {
+          "size": "grand",
+          "label": "Grand",
+          "stems": "18–20 stems · silk ribbon",
+          "description": "Our most generous presentation — an abundant statement bouquet, hand-carried in the studio vault and delivered white-glove.",
+          "priceCents": 13800,
+          "compareAtPriceCents": null,
+          "sku": "BF-SEA-503-GRA",
+          "stockQty": 6,
+          "inStock": true
+        }
+      ]
+    },
+    {
+      "sku": "BF-SEA-504",
+      "name": "Soirée d’Été",
+      "slug": "soiree-dete",
+      "collection": "seasonal-blooms",
+      "shortDescription": "Sunflowers, limonium and grasses for long tables and longer evenings.",
+      "description": "Soirée d’Été is summer party logistics solved: sunflower heads, airy limonium and the dry grasses that survive a June evening without a drop of water. Set it on the table at five, light the candles at nine, throw it out glowing at one — it does the whole shift.",
+      "basePriceCents": 7000,
+      "compareAtPriceCents": null,
+      "categoryTags": [
+        "Summer",
+        "Outdoor",
+        "Party"
+      ],
+      "colorPalette": [
+        {
+          "name": "Sunflower gold",
+          "hex": "#e0b544"
+        },
+        {
+          "name": "Amber",
+          "hex": "#c9802f"
+        },
+        {
+          "name": "Wheat",
+          "hex": "#d8c48a"
+        },
+        {
+          "name": "Green",
+          "hex": "#7c8b63"
+        }
+      ],
+      "flowerTypes": [
+        "Sunflower",
+        "Limonium",
+        "Dried grass",
+        "Zinnia"
+      ],
+      "dimensions": {
+        "width": 12,
+        "height": 17
+      },
+      "vaseIncluded": false,
+      "careInstructions": [
+        "Change the water every other day and stand the arrangement away from direct sun and heating vents."
+      ],
+      "featured": true,
+      "bestseller": true,
+      "newArrival": false,
+      "seoTitle": "Soirée d’Été — Luxury Flower Delivery",
+      "seoDescription": "Sunflowers, limonium and grasses for long tables and longer evenings. Available in Classic, Deluxe and Grand sizes with same-day delivery across the Arcadia metro.",
+      "images": [
+        {
+          "src": "art://sunlit/sunflower/soiree-dete/full",
+          "alt": "Soirée d’Été — arrangement",
+          "position": 0
+        },
+        {
+          "src": "art://sunlit/sunflower/soiree-dete/arch",
+          "alt": "Soirée d’Été — ateliier presentation",
+          "position": 1
+        },
+        {
+          "src": "art://sunlit/sunflower/soiree-dete/detail",
+          "alt": "Soirée d’Été — detail of the arrangement",
+          "position": 2
+        }
+      ],
+      "variants": [
+        {
+          "size": "classic",
+          "label": "Classic",
+          "stems": "8–10 stems",
+          "description": "A gathered hand-tied bouquet of the finest stems, wrapped in ivory paper and finished with twine — our signature atelier size.",
+          "priceCents": 7000,
+          "compareAtPriceCents": null,
+          "sku": "BF-SEA-504-CLA",
+          "stockQty": 14,
+          "inStock": true
+        },
+        {
+          "size": "deluxe",
+          "label": "Deluxe",
+          "stems": "12–14 stems · premium bloom",
+          "description": "A fuller garden bouquet with premium blooms and added greenery, hand-tied, wrapped and finished with a champagne silk ribbon.",
+          "priceCents": 10600,
+          "compareAtPriceCents": null,
+          "sku": "BF-SEA-504-DEL",
+          "stockQty": 9,
+          "inStock": true
+        },
+        {
+          "size": "grand",
+          "label": "Grand",
+          "stems": "16–18 stems · silk ribbon",
+          "description": "Our most generous presentation — an abundant statement bouquet, hand-carried in the studio vault and delivered white-glove.",
+          "priceCents": 14400,
+          "compareAtPriceCents": null,
+          "sku": "BF-SEA-504-GRA",
+          "stockQty": 6,
+          "inStock": true
+        }
+      ]
+    },
+    {
+      "sku": "BF-SEA-505",
+      "name": "Chrysanthème d’Or",
+      "slug": "chrysantheme-dor",
+      "collection": "seasonal-blooms",
+      "shortDescription": "Golden chrysanthemums and alstroemeria — the reliable autumn workhorse.",
+      "description": "Golden chrysanthemum is the bloom of autumn markets everywhere, and d’Or treats it with respect: wide gold heads, orange alstroemeria, and the surprising staying power only chrysanthemum has — two full weeks in a cool room. Understated, generous, dependable.",
+      "basePriceCents": 6400,
+      "compareAtPriceCents": null,
+      "categoryTags": [
+        "Autumn",
+        "Long-lasting",
+        "Budget-friendly"
+      ],
+      "colorPalette": [
+        {
+          "name": "Chrysanthemum gold",
+          "hex": "#e0a83e"
+        },
+        {
+          "name": "Orange",
+          "hex": "#d97a2f"
+        },
+        {
+          "name": "Honey",
+          "hex": "#c98f4a"
+        },
+        {
+          "name": "Green",
+          "hex": "#7c8b63"
+        }
+      ],
+      "flowerTypes": [
+        "Golden chrysanthemum",
+        "Alstroemeria",
+        "Solidago"
+      ],
+      "dimensions": {
+        "width": 11,
+        "height": 15
+      },
+      "vaseIncluded": true,
+      "careInstructions": [
+        "Change the water every other day and stand the arrangement away from direct sun and heating vents."
+      ],
+      "featured": false,
+      "bestseller": false,
+      "newArrival": true,
+      "seoTitle": "Chrysanthème d’Or — Luxury Flower Delivery",
+      "seoDescription": "Golden chrysanthemums and alstroemeria — the reliable autumn workhorse. Available in Classic, Deluxe and Grand sizes with same-day delivery across the Arcadia metro.",
+      "images": [
+        {
+          "src": "art://sunlit/dahlia/chrysantheme-dor/full",
+          "alt": "Chrysanthème d’Or — arrangement",
+          "position": 0
+        },
+        {
+          "src": "art://sunlit/dahlia/chrysantheme-dor/arch",
+          "alt": "Chrysanthème d’Or — ateliier presentation",
+          "position": 1
+        },
+        {
+          "src": "art://sunlit/dahlia/chrysantheme-dor/detail",
+          "alt": "Chrysanthème d’Or — detail of the arrangement",
+          "position": 2
+        }
+      ],
+      "variants": [
+        {
+          "size": "classic",
+          "label": "Classic",
+          "stems": "9–11 stems",
+          "description": "A gathered hand-tied bouquet of the finest stems, wrapped in ivory paper and finished with twine — our signature atelier size.",
+          "priceCents": 6400,
+          "compareAtPriceCents": null,
+          "sku": "BF-SEA-505-CLA",
+          "stockQty": 1,
+          "inStock": true
+        },
+        {
+          "size": "deluxe",
+          "label": "Deluxe",
+          "stems": "13–15 stems · premium bloom",
+          "description": "A fuller garden bouquet with premium blooms and added greenery, hand-tied, wrapped and finished with a champagne silk ribbon.",
+          "priceCents": 9600,
+          "compareAtPriceCents": null,
+          "sku": "BF-SEA-505-DEL",
+          "stockQty": 2,
+          "inStock": true
+        },
+        {
+          "size": "grand",
+          "label": "Grand",
+          "stems": "17–19 stems · silk ribbon",
+          "description": "Our most generous presentation — an abundant statement bouquet, hand-carried in the studio vault and delivered white-glove.",
+          "priceCents": 13000,
+          "compareAtPriceCents": null,
+          "sku": "BF-SEA-505-GRA",
+          "stockQty": 1,
+          "inStock": true
+        }
+      ]
+    },
+    {
+      "sku": "BF-SEA-506",
+      "name": "Récolte",
+      "slug": "recolte",
+      "collection": "seasonal-blooms",
+      "shortDescription": "A harvest table in a vase — rust dahlias, chocolate cosmos and berry.",
+      "description": "Récolte is the colour story of the harvest table: rust and bronze dahlias, chocolate cosmos with its cocoa scent, blackberry berries and wheat stems. It is the arrangement we send to chefs, growers and anyone whose kitchen faces a field.",
+      "basePriceCents": 7400,
+      "compareAtPriceCents": null,
+      "categoryTags": [
+        "Autumn",
+        "Harvest",
+        "Natural"
+      ],
+      "colorPalette": [
+        {
+          "name": "Rust",
+          "hex": "#a94b2a"
+        },
+        {
+          "name": "Chocolate",
+          "hex": "#6b3a2a"
+        },
+        {
+          "name": "Bronze",
+          "hex": "#a97a43"
+        },
+        {
+          "name": "Berry",
+          "hex": "#8a3b52"
+        }
+      ],
+      "flowerTypes": [
+        "Rust dahlia",
+        "Chocolate cosmos",
+        "Wheat",
+        "Blackberry"
+      ],
+      "dimensions": {
+        "width": 13,
+        "height": 17
+      },
+      "vaseIncluded": true,
+      "careInstructions": [
+        "Dahlias prefer cool water and a low-sugar vase life. Re-cut daily to keep the heads upright.",
+        "Change the water every other day and stand the arrangement away from direct sun and heating vents."
+      ],
+      "featured": false,
+      "bestseller": false,
+      "newArrival": false,
+      "seoTitle": "Récolte — Luxury Flower Delivery",
+      "seoDescription": "A harvest table in a vase — rust dahlias, chocolate cosmos and berry. Available in Classic, Deluxe and Grand sizes with same-day delivery across the Arcadia metro.",
+      "images": [
+        {
+          "src": "art://autumn/dahlia/recolte/full",
+          "alt": "Récolte — arrangement",
+          "position": 0
+        },
+        {
+          "src": "art://autumn/dahlia/recolte/arch",
+          "alt": "Récolte — ateliier presentation",
+          "position": 1
+        },
+        {
+          "src": "art://autumn/dahlia/recolte/detail",
+          "alt": "Récolte — detail of the arrangement",
+          "position": 2
+        }
+      ],
+      "variants": [
+        {
+          "size": "classic",
+          "label": "Classic",
+          "stems": "9–11 stems",
+          "description": "A gathered hand-tied bouquet of the finest stems, wrapped in ivory paper and finished with twine — our signature atelier size.",
+          "priceCents": 7400,
+          "compareAtPriceCents": null,
+          "sku": "BF-SEA-506-CLA",
+          "stockQty": 9,
+          "inStock": true
+        },
+        {
+          "size": "deluxe",
+          "label": "Deluxe",
+          "stems": "13–15 stems · premium bloom",
+          "description": "A fuller garden bouquet with premium blooms and added greenery, hand-tied, wrapped and finished with a champagne silk ribbon.",
+          "priceCents": 11200,
+          "compareAtPriceCents": null,
+          "sku": "BF-SEA-506-DEL",
+          "stockQty": 6,
+          "inStock": true
+        },
+        {
+          "size": "grand",
+          "label": "Grand",
+          "stems": "17–19 stems · silk ribbon",
+          "description": "Our most generous presentation — an abundant statement bouquet, hand-carried in the studio vault and delivered white-glove.",
+          "priceCents": 15200,
+          "compareAtPriceCents": null,
+          "sku": "BF-SEA-506-GRA",
+          "stockQty": 4,
+          "inStock": true
+        }
+      ]
+    },
+    {
+      "sku": "BF-LUX-601",
+      "name": "Grand Palais",
+      "slug": "grand-palais",
+      "collection": "luxury-arrangements",
+      "shortDescription": "Our grandest rose-and-peony composition, built for the centre of a grand room.",
+      "description": "Grand Palais is the full atelier on a dining table: two dozen stems of the season’s best garden roses, ivory peonies, and an architecture of greenery that holds its sculpture for two weeks. It is made to order, photographed on delivery day, and hand-carried in the studio vault.",
+      "basePriceCents": 16800,
+      "compareAtPriceCents": null,
+      "categoryTags": [
+        "Statement",
+        "Luxury",
+        "Grand"
+      ],
+      "colorPalette": [
+        {
+          "name": "Ivory",
+          "hex": "#f6ead9"
+        },
+        {
+          "name": "Blush",
+          "hex": "#e4b7c0"
+        },
+        {
+          "name": "Champagne",
+          "hex": "#e6d8bd"
+        },
+        {
+          "name": "Wine",
+          "hex": "#7b2c43"
+        }
+      ],
+      "flowerTypes": [
+        "Garden rose",
+        "Ivory peony",
+        "Tuberose",
+        "Ruscus",
+        "Silver brunia"
+      ],
+      "dimensions": {
+        "width": 20,
+        "height": 22
+      },
+      "vaseIncluded": true,
+      "careInstructions": [
+        "Trim rose stems at a sharp 45° angle before arranging.",
+        "Roses drink best in lukewarm water; refresh every other day.",
+        "Keep away from fruit bowls — ethylene ages roses quickly.",
+        "Change the water every other day and stand the arrangement away from direct sun and heating vents."
+      ],
+      "featured": true,
+      "bestseller": true,
+      "newArrival": false,
+      "seoTitle": "Grand Palais — Luxury Flower Delivery",
+      "seoDescription": "Our grandest rose-and-peony composition, built for the centre of a grand room. Available in Classic, Deluxe and Grand sizes with same-day delivery across the Arcadia metro.",
+      "images": [
+        {
+          "src": "art://porcelain/peony/grand-palais/full",
+          "alt": "Grand Palais — arrangement",
+          "position": 0
+        },
+        {
+          "src": "art://porcelain/peony/grand-palais/arch",
+          "alt": "Grand Palais — ateliier presentation",
+          "position": 1
+        },
+        {
+          "src": "art://porcelain/peony/grand-palais/detail",
+          "alt": "Grand Palais — detail of the arrangement",
+          "position": 2
+        }
+      ],
+      "variants": [
+        {
+          "size": "classic",
+          "label": "Classic",
+          "stems": "16–18 premium stems",
+          "description": "A gathered hand-tied bouquet of the finest stems, wrapped in ivory paper and finished with twine — our signature atelier size.",
+          "priceCents": 16800,
+          "compareAtPriceCents": null,
+          "sku": "BF-LUX-601-CLA",
+          "stockQty": 4,
+          "inStock": true
+        },
+        {
+          "size": "deluxe",
+          "label": "Deluxe",
+          "stems": "22–26 premium stems",
+          "description": "A fuller garden bouquet with premium blooms and added greenery, hand-tied, wrapped and finished with a champagne silk ribbon.",
+          "priceCents": 25200,
+          "compareAtPriceCents": null,
+          "sku": "BF-LUX-601-DEL",
+          "stockQty": 3,
+          "inStock": true
+        },
+        {
+          "size": "grand",
+          "label": "Grand",
+          "stems": "28–34 premium stems · installation",
+          "description": "Our most generous presentation — an abundant statement bouquet, hand-carried in the studio vault and delivered white-glove.",
+          "priceCents": 33600,
+          "compareAtPriceCents": null,
+          "sku": "BF-LUX-601-GRA",
+          "stockQty": 2,
+          "inStock": true
+        }
+      ]
+    },
+    {
+      "sku": "BF-LUX-602",
+      "name": "Opulence",
+      "slug": "opulence",
+      "collection": "luxury-arrangements",
+      "shortDescription": "Peonies and orchids in a porcelain vessel, for the moments that matter most.",
+      "description": "Opulence pairs the two blooms people ask for by name — peony and phalaenopsis orchid — in a hand-thrown porcelain vessel from our studio collaborator. It is the arrangement for the gesture that should not be forgotten: the partner, the parent, the client who signs.",
+      "basePriceCents": 17600,
+      "compareAtPriceCents": null,
+      "categoryTags": [
+        "Luxury",
+        "Orchid",
+        "Gift"
+      ],
+      "colorPalette": [
+        {
+          "name": "Ivory",
+          "hex": "#f6ead9"
+        },
+        {
+          "name": "Blush",
+          "hex": "#e4b7c0"
+        },
+        {
+          "name": "Porcelain white",
+          "hex": "#ffffff"
+        },
+        {
+          "name": "Sage",
+          "hex": "#9aa382"
+        }
+      ],
+      "flowerTypes": [
+        "Phalaenopsis orchid",
+        "Ivory peony",
+        "White garden rose",
+        "Italian ruscus"
+      ],
+      "dimensions": {
+        "width": 16,
+        "height": 20
+      },
+      "vaseIncluded": true,
+      "careInstructions": [
+        "Orchids prefer an orchid-topped vase and bright, indirect light.",
+        "Mist the roots in winter when indoor air is dry.",
+        "For tightly closed peonies, unwrap and give them 24 hours in a cool room to open.",
+        "Change the water every other day and stand the arrangement away from direct sun and heating vents."
+      ],
+      "featured": true,
+      "bestseller": false,
+      "newArrival": false,
+      "seoTitle": "Opulence — Luxury Flower Delivery",
+      "seoDescription": "Peonies and orchids in a porcelain vessel, for the moments that matter most. Available in Classic, Deluxe and Grand sizes with same-day delivery across the Arcadia metro.",
+      "images": [
+        {
+          "src": "art://porcelain/orchid/opulence/full",
+          "alt": "Opulence — arrangement",
+          "position": 0
+        },
+        {
+          "src": "art://porcelain/orchid/opulence/arch",
+          "alt": "Opulence — ateliier presentation",
+          "position": 1
+        },
+        {
+          "src": "art://porcelain/orchid/opulence/detail",
+          "alt": "Opulence — detail of the arrangement",
+          "position": 2
+        }
+      ],
+      "variants": [
+        {
+          "size": "classic",
+          "label": "Classic",
+          "stems": "14–16 premium stems",
+          "description": "A gathered hand-tied bouquet of the finest stems, wrapped in ivory paper and finished with twine — our signature atelier size.",
+          "priceCents": 17600,
+          "compareAtPriceCents": null,
+          "sku": "BF-LUX-602-CLA",
+          "stockQty": 4,
+          "inStock": true
+        },
+        {
+          "size": "deluxe",
+          "label": "Deluxe",
+          "stems": "18–22 premium stems",
+          "description": "A fuller garden bouquet with premium blooms and added greenery, hand-tied, wrapped and finished with a champagne silk ribbon.",
+          "priceCents": 26200,
+          "compareAtPriceCents": null,
+          "sku": "BF-LUX-602-DEL",
+          "stockQty": 3,
+          "inStock": true
+        },
+        {
+          "size": "grand",
+          "label": "Grand",
+          "stems": "24–30 premium stems · installation",
+          "description": "Our most generous presentation — an abundant statement bouquet, hand-carried in the studio vault and delivered white-glove.",
+          "priceCents": 34800,
+          "compareAtPriceCents": null,
+          "sku": "BF-LUX-602-GRA",
+          "stockQty": 1,
+          "inStock": true
+        }
+      ]
+    },
+    {
+      "sku": "BF-LUX-603",
+      "name": "Jardin Secret",
+      "slug": "jardin-secret",
+      "collection": "luxury-arrangements",
+      "shortDescription": "A walled garden gathered into a vase — loose, layered and deeply romantic.",
+      "description": "Jardin Secret is the luxury piece that wears its cost lightly: a dense, garden-style gather of roses, peonies, ranunculus and textural foliage that looks picked, not composed. It is the arrangement for the maison with the overgrown garden and the beautiful table.",
+      "basePriceCents": 15800,
+      "compareAtPriceCents": null,
+      "categoryTags": [
+        "Luxury",
+        "Garden style",
+        "Romantic"
+      ],
+      "colorPalette": [
+        {
+          "name": "Dusty rose",
+          "hex": "#d8a7ad"
+        },
+        {
+          "name": "Cream",
+          "hex": "#efe4cf"
+        },
+        {
+          "name": "Sage",
+          "hex": "#9aa382"
+        },
+        {
+          "name": "Peach",
+          "hex": "#e8b48a"
+        }
+      ],
+      "flowerTypes": [
+        "Juliet rose",
+        "Peony",
+        "Ranunculus",
+        "Scabiosa",
+        "Eucalyptus"
+      ],
+      "dimensions": {
+        "width": 15,
+        "height": 19
+      },
+      "vaseIncluded": false,
+      "careInstructions": [
+        "Trim rose stems at a sharp 45° angle before arranging.",
+        "Roses drink best in lukewarm water; refresh every other day.",
+        "Keep away from fruit bowls — ethylene ages roses quickly.",
+        "Change the water every other day and stand the arrangement away from direct sun and heating vents."
+      ],
+      "featured": true,
+      "bestseller": false,
+      "newArrival": false,
+      "seoTitle": "Jardin Secret — Luxury Flower Delivery",
+      "seoDescription": "A walled garden gathered into a vase — loose, layered and deeply romantic. Available in Classic, Deluxe and Grand sizes with same-day delivery across the Arcadia metro.",
+      "images": [
+        {
+          "src": "art://garden/garden/jardin-secret/full",
+          "alt": "Jardin Secret — arrangement",
+          "position": 0
+        },
+        {
+          "src": "art://garden/garden/jardin-secret/arch",
+          "alt": "Jardin Secret — ateliier presentation",
+          "position": 1
+        },
+        {
+          "src": "art://garden/garden/jardin-secret/detail",
+          "alt": "Jardin Secret — detail of the arrangement",
+          "position": 2
+        }
+      ],
+      "variants": [
+        {
+          "size": "classic",
+          "label": "Classic",
+          "stems": "14–16 premium stems",
+          "description": "A gathered hand-tied bouquet of the finest stems, wrapped in ivory paper and finished with twine — our signature atelier size.",
+          "priceCents": 15800,
+          "compareAtPriceCents": null,
+          "sku": "BF-LUX-603-CLA",
+          "stockQty": 5,
+          "inStock": true
+        },
+        {
+          "size": "deluxe",
+          "label": "Deluxe",
+          "stems": "18–22 premium stems",
+          "description": "A fuller garden bouquet with premium blooms and added greenery, hand-tied, wrapped and finished with a champagne silk ribbon.",
+          "priceCents": 23800,
+          "compareAtPriceCents": null,
+          "sku": "BF-LUX-603-DEL",
+          "stockQty": 3,
+          "inStock": true
+        },
+        {
+          "size": "grand",
+          "label": "Grand",
+          "stems": "24–30 premium stems · installation",
+          "description": "Our most generous presentation — an abundant statement bouquet, hand-carried in the studio vault and delivered white-glove.",
+          "priceCents": 31800,
+          "compareAtPriceCents": null,
+          "sku": "BF-LUX-603-GRA",
+          "stockQty": 2,
+          "inStock": true
+        }
+      ]
+    },
+    {
+      "sku": "BF-LUX-604",
+      "name": "Impérial",
+      "slug": "imperial",
+      "collection": "luxury-arrangements",
+      "shortDescription": "Cymbidium orchids and amaranth in a tall, architectural statement.",
+      "description": "Impérial is the architecture of the collection: three candlestick cymbidium orchids, a fall of wine amaranth, and crisp structural foliage on a tall water line. It reads as sculpture before it reads as flowers, and it is the piece our events clients request by photograph.",
+      "basePriceCents": 17200,
+      "compareAtPriceCents": null,
+      "categoryTags": [
+        "Luxury",
+        "Architectural",
+        "Orchid"
+      ],
+      "colorPalette": [
+        {
+          "name": "Wine",
+          "hex": "#7b2c43"
+        },
+        {
+          "name": "Champagne",
+          "hex": "#e6d8bd"
+        },
+        {
+          "name": "Lavender",
+          "hex": "#b5a7c9"
+        },
+        {
+          "name": "Deep green",
+          "hex": "#4f6b4a"
+        }
+      ],
+      "flowerTypes": [
+        "Cymbidium orchid",
+        "Amaranth",
+        "Anthurium",
+        "Leatherleaf"
+      ],
+      "dimensions": {
+        "width": 14,
+        "height": 26
+      },
+      "vaseIncluded": true,
+      "careInstructions": [
+        "Orchids prefer an orchid-topped vase and bright, indirect light.",
+        "Mist the roots in winter when indoor air is dry.",
+        "Change the water every other day and stand the arrangement away from direct sun and heating vents."
+      ],
+      "featured": false,
+      "bestseller": false,
+      "newArrival": false,
+      "seoTitle": "Impérial — Luxury Flower Delivery",
+      "seoDescription": "Cymbidium orchids and amaranth in a tall, architectural statement. Available in Classic, Deluxe and Grand sizes with same-day delivery across the Arcadia metro.",
+      "images": [
+        {
+          "src": "art://lavender/orchid/imperial/full",
+          "alt": "Impérial — arrangement",
+          "position": 0
+        },
+        {
+          "src": "art://lavender/orchid/imperial/arch",
+          "alt": "Impérial — ateliier presentation",
+          "position": 1
+        },
+        {
+          "src": "art://lavender/orchid/imperial/detail",
+          "alt": "Impérial — detail of the arrangement",
+          "position": 2
+        }
+      ],
+      "variants": [
+        {
+          "size": "classic",
+          "label": "Classic",
+          "stems": "12–14 premium stems",
+          "description": "A gathered hand-tied bouquet of the finest stems, wrapped in ivory paper and finished with twine — our signature atelier size.",
+          "priceCents": 17200,
+          "compareAtPriceCents": null,
+          "sku": "BF-LUX-604-CLA",
+          "stockQty": 4,
+          "inStock": true
+        },
+        {
+          "size": "deluxe",
+          "label": "Deluxe",
+          "stems": "16–20 premium stems",
+          "description": "A fuller garden bouquet with premium blooms and added greenery, hand-tied, wrapped and finished with a champagne silk ribbon.",
+          "priceCents": 25800,
+          "compareAtPriceCents": null,
+          "sku": "BF-LUX-604-DEL",
+          "stockQty": 2,
+          "inStock": true
+        },
+        {
+          "size": "grand",
+          "label": "Grand",
+          "stems": "22–28 premium stems · installation",
+          "description": "Our most generous presentation — an abundant statement bouquet, hand-carried in the studio vault and delivered white-glove.",
+          "priceCents": 34400,
+          "compareAtPriceCents": null,
+          "sku": "BF-LUX-604-GRA",
+          "stockQty": 1,
+          "inStock": true
+        }
+      ]
+    },
+    {
+      "sku": "BF-LUX-605",
+      "name": "Versailles Rose",
+      "slug": "versailles-rose",
+      "collection": "luxury-arrangements",
+      "shortDescription": "A towering garden-rose column, the most photographed piece in the atelier.",
+      "description": "Versailles Rose is the column we build in the window of the atelier every spring: sixty or more garden-rose stems rising from a plinth of greenery to a crown of peonies. It is photographed on the hour by the street, and it is the arrangement we refuse to miniaturise.",
+      "basePriceCents": 18000,
+      "compareAtPriceCents": null,
+      "categoryTags": [
+        "Luxury",
+        "Statement",
+        "Rose"
+      ],
+      "colorPalette": [
+        {
+          "name": "Antique pink",
+          "hex": "#e0a3b2"
+        },
+        {
+          "name": "Ivory",
+          "hex": "#f6ead9"
+        },
+        {
+          "name": "Champagne",
+          "hex": "#e6d8bd"
+        },
+        {
+          "name": "Green",
+          "hex": "#5f6b51"
+        }
+      ],
+      "flowerTypes": [
+        "Garden rose",
+        "Ivory peony",
+        "Phlox",
+        "Ruscus"
+      ],
+      "dimensions": {
+        "width": 14,
+        "height": 28
+      },
+      "vaseIncluded": true,
+      "careInstructions": [
+        "Trim rose stems at a sharp 45° angle before arranging.",
+        "Roses drink best in lukewarm water; refresh every other day.",
+        "Keep away from fruit bowls — ethylene ages roses quickly.",
+        "Change the water every other day and stand the arrangement away from direct sun and heating vents."
+      ],
+      "featured": true,
+      "bestseller": false,
+      "newArrival": true,
+      "seoTitle": "Versailles Rose — Luxury Flower Delivery",
+      "seoDescription": "A towering garden-rose column, the most photographed piece in the atelier. Available in Classic, Deluxe and Grand sizes with same-day delivery across the Arcadia metro.",
+      "images": [
+        {
+          "src": "art://blush/rose/versailles-rose/full",
+          "alt": "Versailles Rose — arrangement",
+          "position": 0
+        },
+        {
+          "src": "art://blush/rose/versailles-rose/arch",
+          "alt": "Versailles Rose — ateliier presentation",
+          "position": 1
+        },
+        {
+          "src": "art://blush/rose/versailles-rose/detail",
+          "alt": "Versailles Rose — detail of the arrangement",
+          "position": 2
+        }
+      ],
+      "variants": [
+        {
+          "size": "classic",
+          "label": "Classic",
+          "stems": "20–24 premium stems",
+          "description": "A gathered hand-tied bouquet of the finest stems, wrapped in ivory paper and finished with twine — our signature atelier size.",
+          "priceCents": 18000,
+          "compareAtPriceCents": null,
+          "sku": "BF-LUX-605-CLA",
+          "stockQty": 3,
+          "inStock": true
+        },
+        {
+          "size": "deluxe",
+          "label": "Deluxe",
+          "stems": "26–32 premium stems",
+          "description": "A fuller garden bouquet with premium blooms and added greenery, hand-tied, wrapped and finished with a champagne silk ribbon.",
+          "priceCents": 27000,
+          "compareAtPriceCents": null,
+          "sku": "BF-LUX-605-DEL",
+          "stockQty": 2,
+          "inStock": true
+        },
+        {
+          "size": "grand",
+          "label": "Grand",
+          "stems": "36–44 premium stems · installation",
+          "description": "Our most generous presentation — an abundant statement bouquet, hand-carried in the studio vault and delivered white-glove.",
+          "priceCents": 34800,
+          "compareAtPriceCents": null,
+          "sku": "BF-LUX-605-GRA",
+          "stockQty": 1,
+          "inStock": true
+        }
+      ]
+    },
+    {
+      "sku": "BF-LUX-606",
+      "name": "Le Grand Bouquet",
+      "slug": "le-grand-bouquet",
+      "collection": "luxury-arrangements",
+      "shortDescription": "The largest bouquet the atelier pays forward — the centrepiece of the house.",
+      "description": "Le Grand Bouquet is what we mean when we say couture flowers: a composition of the season’s rarest stems — lily-of-the-valley in spring, hybrid tea roses in summer, gardenias in winter — built over three hours in the studio and delivered white-glove to wherever the moment is. It is our gift for the once-in-a-lifetime.",
+      "basePriceCents": 19000,
+      "compareAtPriceCents": 21500,
+      "categoryTags": [
+        "Luxury",
+        "Grand",
+        "Couture"
+      ],
+      "colorPalette": [
+        {
+          "name": "Ivory",
+          "hex": "#f6ead9"
+        },
+        {
+          "name": "Blush",
+          "hex": "#e4b7c0"
+        },
+        {
+          "name": "Champagne",
+          "hex": "#e6d8bd"
+        },
+        {
+          "name": "Wine",
+          "hex": "#7b2c43"
+        }
+      ],
+      "flowerTypes": [
+        "Hybrid tea rose",
+        "Gardenia",
+        "Lily of the valley",
+        "Orchid",
+        "Peony"
+      ],
+      "dimensions": {
+        "width": 18,
+        "height": 24
+      },
+      "vaseIncluded": true,
+      "careInstructions": [
+        "Trim rose stems at a sharp 45° angle before arranging.",
+        "Roses drink best in lukewarm water; refresh every other day.",
+        "Keep away from fruit bowls — ethylene ages roses quickly.",
+        "Change the water every other day and stand the arrangement away from direct sun and heating vents."
+      ],
+      "featured": true,
+      "bestseller": false,
+      "newArrival": false,
+      "seoTitle": "Le Grand Bouquet — Luxury Flower Delivery",
+      "seoDescription": "The largest bouquet the atelier pays forward — the centrepiece of the house. Available in Classic, Deluxe and Grand sizes with same-day delivery across the Arcadia metro.",
+      "images": [
+        {
+          "src": "art://porcelain/mixed/le-grand-bouquet/full",
+          "alt": "Le Grand Bouquet — arrangement",
+          "position": 0
+        },
+        {
+          "src": "art://porcelain/mixed/le-grand-bouquet/arch",
+          "alt": "Le Grand Bouquet — ateliier presentation",
+          "position": 1
+        },
+        {
+          "src": "art://porcelain/mixed/le-grand-bouquet/detail",
+          "alt": "Le Grand Bouquet — detail of the arrangement",
+          "position": 2
+        }
+      ],
+      "variants": [
+        {
+          "size": "classic",
+          "label": "Classic",
+          "stems": "24–28 premium stems",
+          "description": "A gathered hand-tied bouquet of the finest stems, wrapped in ivory paper and finished with twine — our signature atelier size.",
+          "priceCents": 19000,
+          "compareAtPriceCents": null,
+          "sku": "BF-LUX-606-CLA",
+          "stockQty": 3,
+          "inStock": true
+        },
+        {
+          "size": "deluxe",
+          "label": "Deluxe",
+          "stems": "30–38 premium stems",
+          "description": "A fuller garden bouquet with premium blooms and added greenery, hand-tied, wrapped and finished with a champagne silk ribbon.",
+          "priceCents": 28500,
+          "compareAtPriceCents": null,
+          "sku": "BF-LUX-606-DEL",
+          "stockQty": 2,
+          "inStock": true
+        },
+        {
+          "size": "grand",
+          "label": "Grand",
+          "stems": "40–50 premium stems · installation",
+          "description": "Our most generous presentation — an abundant statement bouquet, hand-carried in the studio vault and delivered white-glove.",
+          "priceCents": 35000,
+          "compareAtPriceCents": null,
+          "sku": "BF-LUX-606-GRA",
+          "stockQty": 1,
+          "inStock": true
+        }
+      ]
+    }
+  ],
+  "testimonials": [
+    {
+      "quote": "The arrangement arrived looking like a page from a design magazine — not a single stem out of place. My mother kept it for eleven days.",
+      "author": "Miriam Castellanos",
+      "initials": "MC",
+      "location": "Old Town, Arcadia",
+      "occasion": "Anniversary",
+      "rating": 5,
+      "isSample": true,
+      "featured": true
+    },
+    {
+      "quote": "We planned our entire reception palette around Bloomé’s roses. The team read every note we sent and translated it into flowers.",
+      "author": "Priya & Daniel Ashford",
+      "initials": "PA",
+      "location": "Harbor District",
+      "occasion": "Wedding",
+      "rating": 5,
+      "isSample": true,
+      "featured": true
+    },
+    {
+      "quote": "Ordering flowers for a difficult occasion should feel gentle. This did. The handwritten note and the calm delivery made all the difference.",
+      "author": "Eleanor Whitfield",
+      "initials": "EW",
+      "location": "Westmeadow",
+      "occasion": "Sympathy",
+      "rating": 5,
+      "isSample": true,
+      "featured": true
+    },
+    {
+      "quote": "I sent the Grand peonies to a client and received a thank-you email before the delivery confirmation. That says everything.",
+      "author": "Thomas Réveillon",
+      "initials": "TR",
+      "location": "Marina",
+      "occasion": "Corporate gift",
+      "rating": 5,
+      "isSample": true,
+      "featured": false
+    },
+    {
+      "quote": "The bouquet lasted well past the two weeks they promised. I followed the care card and changed the water every other day.",
+      "author": "Sofia Lindgren",
+      "initials": "SL",
+      "location": "Garden Row",
+      "occasion": "Birthday",
+      "rating": 4,
+      "isSample": true,
+      "featured": false
+    },
+    {
+      "quote": "Every Friday for six months, the same card, a different arrangement. My assistant now knows the courier by name.",
+      "author": "Henry Okafor",
+      "initials": "HO",
+      "location": "Lighthouse Point",
+      "occasion": "Weekly subscription",
+      "rating": 5,
+      "isSample": true,
+      "featured": true
+    },
+    {
+      "quote": "The seasonal arrangement was full of things I could not name — and somehow all of them belonged together. Visited the atelier the next week.",
+      "author": "Aiko Tanabe",
+      "initials": "AT",
+      "location": "Willow Park",
+      "occasion": "Just because",
+      "rating": 5,
+      "isSample": true,
+      "featured": false
+    },
+    {
+      "quote": "A small hiccup with our delivery date; the team called within the hour and re-sent a fresh arrangement the next morning.",
+      "author": "Gabriel Marchetti",
+      "initials": "GM",
+      "location": "Cedar Heights",
+      "occasion": "Birthday",
+      "rating": 4,
+      "isSample": true,
+      "featured": false
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How far in advance should I place my order?",
+      "answer": "Standard delivery needs 24–48 hours depending on your zone. Same-day delivery is available in the Arcadia Core and Harbor District zones for orders placed before 2pm and 1pm respectively. Weddings and events are booked at least four weeks ahead.",
+      "category": "ordering",
+      "position": 1,
+      "featured": true
+    },
+    {
+      "question": "Is this a real shop, and will I be charged?",
+      "answer": "No. This website is a demonstration template. Every product, price and review is fictional sample content, and the checkout is a demo that never processes payment or transmits an order.",
+      "category": "ordering",
+      "position": 2,
+      "featured": true
+    },
+    {
+      "question": "Which areas do you deliver to?",
+      "answer": "We hand-deliver across five zones — Arcadia Core, Harbor District, Westmeadow, North Hills and a Regional Courier zone up to 50 miles out. Enter your ZIP at checkout and we will show availability, delivery fees and service windows.",
+      "category": "delivery",
+      "position": 3,
+      "featured": true
+    },
+    {
+      "question": "Can I choose a delivery time?",
+      "answer": "You can choose a delivery date and a service window — morning, afternoon or same-day. Precise times within a window cost extra and can be arranged by calling the atelier.",
+      "category": "delivery",
+      "position": 4,
+      "featured": false
+    },
+    {
+      "question": "What happens if the recipient is not home?",
+      "answer": "Our couriers will leave the arrangement with a neighbour or concierge where possible, and always with a card. If no safe spot exists, we return the arrangement to the atelier and contact you to re-schedule at no delivery cost.",
+      "category": "delivery",
+      "position": 5,
+      "featured": false
+    },
+    {
+      "question": "How long will my flowers last?",
+      "answer": "Most arrangements remain at their best for 7–12 days, and roses often longer. Every order includes a care card; trim the stems at an angle, change the water every other day, and keep the vase away from direct sun and heating vents.",
+      "category": "product",
+      "position": 6,
+      "featured": false
+    },
+    {
+      "question": "Can I include a personal message?",
+      "answer": "Yes. On the product page you can add a handwritten gift message of up to 240 characters, and at checkout you can request that prices be hidden from the packing slip.",
+      "category": "product",
+      "position": 7,
+      "featured": false
+    },
+    {
+      "question": "Are the flowers seasonal and locally sourced?",
+      "answer": "Wherever possible. We buy from three regional growers in California and complement with fair-trade imports for varieties that cannot be grown locally. Our care pages note when a bloom is in its natural season.",
+      "category": "product",
+      "position": 8,
+      "featured": false
+    },
+    {
+      "question": "What is your cancellation and refund policy?",
+      "answer": "Orders can be changed or cancelled free of charge up to 24 hours before the delivery date. Because flowers are perishable, cancellations after that point may carry the cost of the arrangement, and we always refund delivery when we cannot fulfil.",
+      "category": "account",
+      "position": 9,
+      "featured": false
+    },
+    {
+      "question": "Do you create flowers for weddings and corporate events?",
+      "answer": "We do. Our events team designs installations, tablescapes and ceremony florals for weddings from six to four hundred guests, and weekly arrangements for offices and hotels. Book a consultation through our contact page.",
+      "category": "events",
+      "position": 10,
+      "featured": true
+    }
+  ],
+  "deliveryZones": [
+    {
+      "slug": "arcadia-core",
+      "name": "Arcadia Core",
+      "region": "Downtown, Old Town, Rue des Jardins",
+      "postalCodes": [
+        "94107",
+        "94103",
+        "94105",
+        "94102"
+      ],
+      "sameDayAvailable": true,
+      "cutoffTime": "14:00",
+      "standardFeeCents": 1200,
+      "expressFeeCents": 1800,
+      "sameDayFeeCents": 2500,
+      "minimumOrderCents": 6000,
+      "standardLeadHours": 24,
+      "notes": "Complimentary delivery on orders over $125."
+    },
+    {
+      "slug": "harbor-district",
+      "name": "Harbor District",
+      "region": "Marina, Wharf, Lighthouse Point",
+      "postalCodes": [
+        "94111",
+        "94123",
+        "94109",
+        "94133"
+      ],
+      "sameDayAvailable": true,
+      "cutoffTime": "13:00",
+      "standardFeeCents": 1400,
+      "expressFeeCents": 2000,
+      "sameDayFeeCents": 2800,
+      "minimumOrderCents": 6000,
+      "standardLeadHours": 24,
+      "notes": "Same-day orders require a 1pm cut-off."
+    },
+    {
+      "slug": "westmeadow",
+      "name": "Westmeadow",
+      "region": "Westmeadow, Garden Row, Willow Park",
+      "postalCodes": [
+        "94117",
+        "94118",
+        "94121",
+        "94122"
+      ],
+      "sameDayAvailable": false,
+      "cutoffTime": "17:00",
+      "standardFeeCents": 1600,
+      "expressFeeCents": 2400,
+      "sameDayFeeCents": 0,
+      "minimumOrderCents": 7500,
+      "standardLeadHours": 48,
+      "notes": "Same-day service is not available; flowers travel by refrigerated courier."
+    },
+    {
+      "slug": "north-hills",
+      "name": "North Hills",
+      "region": "North Hills, Cedar Heights, Vine & Oak",
+      "postalCodes": [
+        "94131",
+        "94114",
+        "94110",
+        "94112"
+      ],
+      "sameDayAvailable": false,
+      "cutoffTime": "16:00",
+      "standardFeeCents": 1800,
+      "expressFeeCents": 2600,
+      "sameDayFeeCents": 0,
+      "minimumOrderCents": 7500,
+      "standardLeadHours": 48,
+      "notes": "Orders placed after 4pm are scheduled the following day."
+    },
+    {
+      "slug": "regional-courier",
+      "name": "Regional Courier",
+      "region": "Beyond the Arcadia metro — up to 50 miles",
+      "postalCodes": [
+        "94401",
+        "94402",
+        "94501",
+        "94502",
+        "94901",
+        "94903"
+      ],
+      "sameDayAvailable": false,
+      "cutoffTime": "12:00",
+      "standardFeeCents": 2400,
+      "expressFeeCents": 3400,
+      "sameDayFeeCents": 0,
+      "minimumOrderCents": 9000,
+      "standardLeadHours": 72,
+      "notes": "Regional deliveries ship in our signature travelling vault."
+    }
+  ],
+  "deliveryWindows": [
+    {
+      "slug": "standard-window",
+      "name": "Standard window",
+      "description": "Delivered between 9am and 5pm on the date you choose.",
+      "startTime": "9:00",
+      "endTime": "5pm",
+      "surchargeCents": 0,
+      "sameDayOnly": false,
+      "position": 1
+    },
+    {
+      "slug": "afternoon-window",
+      "name": "Afternoon window",
+      "description": "Delivered to offices and homes between 1pm and 4pm.",
+      "startTime": "1:00",
+      "endTime": "4pm",
+      "surchargeCents": 800,
+      "sameDayOnly": false,
+      "position": 2
+    },
+    {
+      "slug": "same-day",
+      "name": "Same-day hand delivery",
+      "description": "Order before the zone cut-off and we deliver today.",
+      "startTime": "By 7:00",
+      "endTime": "17:00",
+      "surchargeCents": 1500,
+      "sameDayOnly": true,
+      "position": 3
+    }
+  ]
+}

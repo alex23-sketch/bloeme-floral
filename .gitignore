@@ -1,0 +1,18 @@
+node_modules
+dist
+coverage
+*.local
+.DS_Store
+test-results
+playwright-report
+# Local secrets — never commit these
+.env
+.env.*
+!.env.example
+.venv-dev/
+backend/media/
+backend/*.sqlite3
+
+__pycache__/
+*.py[cod]
+.expo/

@@ -1,0 +1,14 @@
+import { webkit } from 'playwright';
+const browser = await webkit.launch({ headless: true });
+const page = await browser.newPage();
+const errors = [];
+page.on('console', m => { if (m.type() === 'error') errors.push(m.text().slice(0, 240)); });
+page.on('pageerror', e => errors.push(`PAGEERROR ${e.message}`));
+await page.goto('http://127.0.0.1:5179/', { waitUntil: 'networkidle' });
+await page.waitForTimeout(2500);
+console.log('HOME_TEXT', (await page.locator('main').innerText()).slice(0,300));
+await page.goto('http://127.0.0.1:5179/shop', { waitUntil: 'domcontentloaded' });
+await page.waitForTimeout(3500);
+const body = (await page.locator('body').innerText()).slice(0, 900);
+console.log(JSON.stringify({ url: page.url(), body, errors }, null, 2));
+await browser.close();
